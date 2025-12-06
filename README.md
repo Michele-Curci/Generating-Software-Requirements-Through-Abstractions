@@ -2,12 +2,12 @@
 Repository for the project of the course "Large language models for software engineering"
 ---------------------------------------------------------------------------------------------------------------------
 
-Assignment description:\\
-Requirements are often ambiguous, inconsistent, and nonstandardized. LLMs can support requirement authoring, but they still risk to misinterpret human needs. For this reason, a more systematic approach, based on the clear identification of the requirements’ building blocks, may prove benefits.
+Assignment description:  
+Requirements are often ambiguous, inconsistent, and nonstandardized. LLMs can support requirement authoring, but they still risk to misinterpret human needs. For this reason, a more systematic approach, based on the clear identification of the requirements’ building blocks, may prove benefits.  
 
-Can LLMs reliably identify the different abstraction that compose a requirement (e.g., the main actor, the system response, the precondition…)?\\
-Does this analysis improve requirements’ clarity and completeness?\n
-Can LLMs manage nested items?\n
+Can LLMs reliably identify the different abstraction that compose a requirement (e.g., the main actor, the system response, the precondition…)?  
+Does this analysis improve requirements’ clarity and completeness?  
+Can LLMs manage nested items?  
 
 Requirement Dataset: Choose 30+ requirements from any of the following:
 - past course assignments
