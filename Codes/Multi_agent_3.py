@@ -16,8 +16,8 @@ from Multi_agent_3prompt import AGENT_ENTITY_PROMPT, AGENT_ACTION_PROMPT, AGENT_
 HF_TOKEN = '< YOUR TOKEN >'
 
 MODEL_ID = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-INPUT_FILE = 'requirements.json'
-OUTPUT_FILE = "llama3_output.json"
+INPUT_FILE = 'Datasets/Dataset_250/requirements.json'
+OUTPUT_FILE = 'multi_agent_predictions.json'
 login(token=HF_TOKEN)
 
 def load_model():
@@ -49,7 +49,7 @@ def load_model():
         return_full_text=False)
 
 def query_llm(pipe, messages):
-    """Invia i messaggi al modello e ritorna la risposta testuale."""
+    """Sends messages to the LLM pipeline and returns the output text."""
     output = pipe(messages)
     return output[0]['generated_text'].strip()
 
@@ -68,10 +68,8 @@ def extract_clean_json(text_output):
         # 2. Find the index of the last closing brace '}'
         end_idx = text_output.rfind('}')
 
-        # If braces are not found, return empty (or handle error as needed)
+        # If braces are not found, return empty dict
         if start_idx == -1 or end_idx == -1:
-            # Optional: print a warning for debug purposes
-            # print(f"Warning: No JSON braces found in: {text_output[:50]}...")
             return {}
 
         # 3. Extract only the substring containing the JSON
@@ -152,7 +150,7 @@ def process_requirements(req, id, pipe):
     all_entities = set(res_entity.get("Entity", [])) | set(res_entity.get("Main_actor", []))
     all_conditions = set(res_logic.get("Condition", [])) | set(res_logic.get("Trigger", [])) | set(res_logic.get("Precondition", []))
 
-    # 3. Apply Smart Filter (Clean text, protect numbers)
+    # Apply Smart Filter (Clean text, protect numbers)
     final_entry = {
         "id": id,
         "Text": req,
@@ -188,6 +186,7 @@ with open(INPUT_FILE, 'r', encoding='utf-8') as f:
     # --- Start Timer ---
     start_time = time.time()
 
+    # Processing Loop
     for entry in tqdm(dataset):
         req_text = entry.get("Text", "")
         req_id = entry.get("id", "unknown")
@@ -201,7 +200,7 @@ with open(INPUT_FILE, 'r', encoding='utf-8') as f:
     end_time = time.time()
     total_duration = end_time - start_time
 
-# Salvataggio
+# Save results to output file
 with open(OUTPUT_FILE, "w", encoding='utf-8') as f:
     json.dump(results, f, indent=4)
 

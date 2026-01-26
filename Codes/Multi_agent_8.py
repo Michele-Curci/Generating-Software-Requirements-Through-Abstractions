@@ -18,8 +18,8 @@ from Multi_agent_8prompt import AGENT_PROMPTS
 HF_TOKEN = '< YOUR TOKEN >'
 
 MODEL_ID = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-INPUT_FILE = 'requirements.json'
-OUTPUT_FILE = 'clean_multi_agent_predictions1.json'
+INPUT_FILE = 'Datasets/Dataset_250/requirements.json'
+OUTPUT_FILE = 'multi_agent_predictions1.json'
 login(token=HF_TOKEN)
 
 def load_llama_model():
@@ -76,16 +76,16 @@ def process_multi_agent_requirement(req_text, pipe, prompts_dict):
             # Accessing generated_text from Llama 3 format
             generated_text = output[0]['generated_text']
 
-            # 1. Basic cleaning of markdown
+            # Basic cleaning of markdown
             clean_text = generated_text.replace("```json", "").replace("```", "").strip()
 
-            # 2. Extract JSON using regex (in case there is text before/after the { })
+            # Extract JSON using regex (in case there is text before/after the { })
             json_match = re.search(r'\{.*\}', clean_text, re.DOTALL)
             if json_match:
-                # 3. CONVERT string to dictionary
+                # CONVERT string to dictionary
                 data_dict = json.loads(json_match.group())
 
-                # 4. Use .get() on the dictionary, not the string
+                # Use .get() on the dictionary, not the string
                 final_extraction[field] = data_dict.get(field, [])
             else:
                 final_extraction[field] = []
@@ -103,8 +103,7 @@ def process_multi_agent_requirement(req_text, pipe, prompts_dict):
 try:
     pipe = load_llama_model()
 except Exception as e:
-    print(f"Errore caricamento modello: {e}")
-    print("Assicurati di aver accettato la licenza su HuggingFace e di avere il Token corretto.")
+    print(f"Error loading model: {e}")
 
 results = []
 
@@ -115,6 +114,7 @@ with open(INPUT_FILE, 'r', encoding='utf-8') as f:
     # --- Start Timer ---
     start_time = time.time()
 
+    # Process each requirement
     for entry in tqdm(dataset):
         req_text = entry.get("Text", "")
         req_id = entry.get("id", "unknown")

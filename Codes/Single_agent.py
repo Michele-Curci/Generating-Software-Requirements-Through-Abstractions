@@ -1,3 +1,5 @@
+## Single agent inference script using LLaMA 3 model with 4-bit quantization.
+
 import torch
 import json
 import os
@@ -15,7 +17,7 @@ from Single_agent_prompt import PROMPT_VARIANTS
 HF_TOKEN = '< YOUR TOKEN >'
 
 MODEL_ID = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-INPUT_FILE = 'requirements.json'
+INPUT_FILE = 'Datasets/Dataset_250/requirements.json'
 OUTPUT_FILE = 'one_shot_predictions.json'
 login(token=HF_TOKEN)
 
@@ -23,7 +25,6 @@ def load_llama_model():
     '''
     Load the LLaMA 3 model with 4-bit quantization for inference.
     '''
-
 
     print(f"Load the {MODEL_ID} in 4-bit...")
 
@@ -62,8 +63,7 @@ def process_requirement(text, pipe):
     Process a single requirement text and return the extracted abstractions.
     '''
 
-
-    strategy = "one_shot" # or "one_shot", "zero_shot"
+    strategy = "one_shot" # or "few_shot", "zero_shot"
     current_system_prompt = PROMPT_VARIANTS[strategy]
     messages = [
         {"role": "system", "content": current_system_prompt},
@@ -98,6 +98,7 @@ with open(INPUT_FILE, 'r', encoding='utf-8') as f:
     # Timer Start
     start_time = time.time()
 
+    # Process each requirement
     for entry in tqdm(dataset):
         req_text = entry.get("Text", "")
         req_id = entry.get("id", "unknown")
