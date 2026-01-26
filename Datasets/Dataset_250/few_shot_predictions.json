@@ -1,0 +1,6233 @@
+[
+    {
+        "id": 0,
+        "Text": "The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.",
+        "Purpose": [
+            "The product shall be available during normal business hours"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "during normal business hours"
+        ],
+        "Precondition": [
+            "As long as the user has access to the client PC",
+            "during the first six months of operation"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the product",
+            "the user",
+            "the client PC",
+            "normal business hours"
+        ],
+        "Action": [
+            "shall be available"
+        ],
+        "System_response": [
+            "shall be available"
+        ]
+    },
+    {
+        "id": 1,
+        "Text": "The system shall refresh the display every 60 seconds.",
+        "Purpose": [
+            "The system shall refresh the display every 60 seconds"
+        ],
+        "Trigger": [
+            "every 60 seconds"
+        ],
+        "Condition": [
+            "every 60 seconds"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "the display"
+        ],
+        "Action": [
+            "refresh"
+        ],
+        "System_response": [
+            "refresh the display"
+        ]
+    },
+    {
+        "id": 2,
+        "Text": "The application shall match the color of the schema set forth by Department of Homeland Security",
+        "Purpose": [
+            "The application shall match the color of the schema set forth by Department of Homeland Security"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The application",
+            "the schema",
+            "Department of Homeland Security"
+        ],
+        "Action": [
+            "match"
+        ],
+        "System_response": [
+            "match the color"
+        ]
+    },
+    {
+        "id": 3,
+        "Text": "If projected on a 10x10 projection screen, 90% of viewers must be able to read Event / Activity data from a viewing distance of 30",
+        "Purpose": [
+            "The application shall match the color of the schema set forth by Department of Homeland Security"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The application",
+            "the schema",
+            "Department of Homeland Security"
+        ],
+        "Action": [
+            "match"
+        ],
+        "System_response": [
+            "match the color"
+        ]
+    },
+    {
+        "id": 4,
+        "Text": "If projected the data must be understandable. On a 10x10 projection screen 90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100",
+        "Purpose": [
+            "The application shall match the color of the schema set forth by Department of Homeland Security"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The application",
+            "the schema",
+            "Department of Homeland Security"
+        ],
+        "Action": [
+            "match"
+        ],
+        "System_response": [
+            "match the color"
+        ]
+    },
+    {
+        "id": 5,
+        "Text": "The product shall respond fast to keep up-to-date data in the display.",
+        "Purpose": [
+            "The product shall respond fast to keep up-to-date data in the display"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the display"
+        ],
+        "Action": [
+            "respond fast"
+        ],
+        "System_response": [
+            "keep up-to-date data"
+        ]
+    },
+    {
+        "id": 6,
+        "Text": "The product shall refresh the display within 500 milliseconds for 99% of new data arrivals.",
+        "Purpose": [
+            "The product shall refresh the display within 500 milliseconds for 99% of new data arrivals"
+        ],
+        "Trigger": [
+            "new data arrivals"
+        ],
+        "Condition": [
+            "new data arrivals"
+        ],
+        "Precondition": [
+            "within 500 milliseconds",
+            "for 99% of new data arrivals"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the display",
+            "new data arrivals"
+        ],
+        "Action": [
+            "refresh"
+        ],
+        "System_response": [
+            "refresh the display"
+        ]
+    },
+    {
+        "id": 7,
+        "Text": "The system shall have a MDI form that allows for the viewing of the graph and the data table.",
+        "Purpose": [
+            "The system shall have a MDI form that allows for the viewing of the graph and the data table"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "the graph",
+            "the data table",
+            "the MDI form"
+        ],
+        "Action": [
+            "have",
+            "allows for the viewing"
+        ],
+        "System_response": [
+            "have a MDI form that allows for the viewing of the graph and the data table"
+        ]
+    },
+    {
+        "id": 8,
+        "Text": "The system shall display Events in a vertical table by time.",
+        "Purpose": [
+            "display Events in a vertical table by time"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "Events"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display Events in a vertical table by time"
+        ]
+    },
+    {
+        "id": 9,
+        "Text": "The system shall display the Events in a graph by time.",
+        "Purpose": [
+            "display the Events in a graph by time"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the system",
+            "Events",
+            "graph",
+            "time"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display the Events in a graph by time"
+        ]
+    },
+    {
+        "id": 10,
+        "Text": "All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.",
+        "Purpose": [
+            "All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "Disputes System",
+            "Regulation E",
+            "Regulation Z"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 11,
+        "Text": "The Disputes application must maintain a detailed history of every action that a user takes on a dispute case.  This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.",
+        "Purpose": [
+            "maintain a detailed history of every action that a user takes on a dispute case"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "the Disputes application",
+            "a dispute case",
+            "a user"
+        ],
+        "Action": [
+            "maintain",
+            "a detailed history of every action that a user takes"
+        ],
+        "System_response": [
+            "maintain a detailed history of every action that a user takes on a dispute case"
+        ]
+    },
+    {
+        "id": 12,
+        "Text": "All actions that modify an existing dispute case must be recorded in the case history.",
+        "Purpose": [
+            "All actions that modify an existing dispute case must be recorded in the case history"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "dispute case",
+            "case history"
+        ],
+        "Action": [
+            "modify",
+            "record"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 13,
+        "Text": "The Disputes System must be accessible by both internal and external users.",
+        "Purpose": [
+            "The Disputes System must be accessible by both internal and external users"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "internal users",
+            "external users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "internal users",
+            "external users"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 14,
+        "Text": "The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.",
+        "Purpose": [
+            "prevent users from accessing any dispute cases that do not belong to their cardholder base"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "users"
+        ],
+        "Entity": [
+            "users",
+            "dispute cases",
+            "cardholder base"
+        ],
+        "Action": [
+            "prevent",
+            "accessing"
+        ],
+        "System_response": [
+            "prevent users from accessing"
+        ]
+    },
+    {
+        "id": 15,
+        "Text": "The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.",
+        "Purpose": [
+            "facilitate direct data entry of a dispute case via a user interface"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "a dispute case",
+            "the user interface"
+        ],
+        "Action": [
+            "will facilitate",
+            "support"
+        ],
+        "System_response": [
+            "support real time responses"
+        ]
+    },
+    {
+        "id": 16,
+        "Text": "The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.",
+        "Purpose": [
+            "provide different levels of access with regard to disputes case initiation and follow-up actions"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The Disputes System",
+            "disputes case initiation",
+            "follow-up actions"
+        ],
+        "Action": [
+            "must provide"
+        ],
+        "System_response": [
+            "must provide"
+        ]
+    },
+    {
+        "id": 17,
+        "Text": "The Disputes System shall provide view access capability for authorized users of the application.",
+        "Purpose": [
+            "provide view access capability"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "authorized users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the application",
+            "users"
+        ],
+        "Action": [
+            "provide view access capability"
+        ],
+        "System_response": [
+            "provide view access capability"
+        ]
+    },
+    {
+        "id": 18,
+        "Text": "The Disputes System shall provide update access capability for authorized users of the application.",
+        "Purpose": [
+            "provide update access capability"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "authorized users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the application",
+            "users"
+        ],
+        "Action": [
+            "provide",
+            "update access capability"
+        ],
+        "System_response": [
+            "provide update access capability"
+        ]
+    },
+    {
+        "id": 19,
+        "Text": "The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.",
+        "Purpose": [
+            "allow the users to select disputable transactions",
+            "initiate a dispute"
+        ],
+        "Trigger": [
+            "from a user interface"
+        ],
+        "Condition": [
+            "based on the age of the transaction"
+        ],
+        "Precondition": [
+            "the users must be allowed to select disputable transactions"
+        ],
+        "Main_actor": [
+            "the users"
+        ],
+        "Entity": [
+            "users",
+            "transactions",
+            "user interface",
+            "disputes system"
+        ],
+        "Action": [
+            "select",
+            "initiate",
+            "retrieve",
+            "notify"
+        ],
+        "System_response": [
+            "allow the users to select disputable transactions",
+            "initiate a dispute"
+        ]
+    },
+    {
+        "id": 20,
+        "Text": "The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.",
+        "Purpose": [
+            "The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "on multiple transactions",
+            "that belong to a single merchant"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "a single dispute case",
+            "multiple transactions",
+            "a single merchant"
+        ],
+        "Action": [
+            "initiate"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 21,
+        "Text": "The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process, the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.",
+        "Purpose": [
+            "The Disputes System will provide the user the ability to create or initiate a ticket retrieval request"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "the ticket retrieval request",
+            "the merchant",
+            "the transaction"
+        ],
+        "Action": [
+            "create",
+            "initiate",
+            "prompt",
+            "enter"
+        ],
+        "System_response": [
+            "provide the ability to create or initiate a ticket retrieval request",
+            "prompt the user to enter all the required information"
+        ]
+    },
+    {
+        "id": 22,
+        "Text": "The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio.",
+        "Purpose": [
+            "The Disputes System will provide the user the ability to create or initiate a ticket retrieval request"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "the ticket retrieval request",
+            "the merchant",
+            "the transaction"
+        ],
+        "Action": [
+            "create",
+            "initiate",
+            "prompt",
+            "enter"
+        ],
+        "System_response": [
+            "provide the ability to create or initiate a ticket retrieval request",
+            "prompt the user to enter all the required information"
+        ]
+    },
+    {
+        "id": 23,
+        "Text": "The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.",
+        "Purpose": [
+            "prevent external users from requesting original receipts"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The Disputes System"
+        ],
+        "Entity": [
+            "external users",
+            "internal users",
+            "original receipts"
+        ],
+        "Action": [
+            "prevent",
+            "request"
+        ],
+        "System_response": [
+            "prevent external users from requesting original receipts"
+        ]
+    },
+    {
+        "id": 24,
+        "Text": "The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information",
+        "Purpose": [
+            "The Disputes System must provide a confirmation to the user"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "ticket retrieval request"
+        ],
+        "Action": [
+            "provide a confirmation"
+        ],
+        "System_response": [
+            "provide a confirmation"
+        ]
+    },
+    {
+        "id": 25,
+        "Text": "The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.",
+        "Purpose": [
+            "allow the user to create or initiate a chargeback request"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "the merchant",
+            "the chargeback request",
+            "the disputed transaction"
+        ],
+        "Action": [
+            "create",
+            "initiate",
+            "prompt",
+            "enter",
+            "initiate",
+            "chargeback"
+        ],
+        "System_response": [
+            "prompt the user to enter the required information",
+            "print a chargeback notification",
+            "send a chargeback notification to the merchant"
+        ]
+    },
+    {
+        "id": 26,
+        "Text": "The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information",
+        "Purpose": [
+            "allow the user to create or initiate a chargeback request"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "the merchant",
+            "the chargeback request",
+            "the disputed transaction"
+        ],
+        "Action": [
+            "create",
+            "initiate",
+            "prompt",
+            "enter",
+            "initiate",
+            "chargeback"
+        ],
+        "System_response": [
+            "prompt the user to enter the required information",
+            "print a chargeback notification",
+            "send a chargeback notification to the merchant"
+        ]
+    },
+    {
+        "id": 27,
+        "Text": "The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.",
+        "Purpose": [
+            "The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [
+            "100% of the time"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The Disputes System",
+            "dispute requests"
+        ],
+        "Action": [
+            "prevent the creation of"
+        ],
+        "System_response": [
+            "prevent the creation of"
+        ]
+    },
+    {
+        "id": 28,
+        "Text": "The product shall comply with corporate User Interface Guidelines",
+        "Purpose": [
+            "comply with corporate User Interface Guidelines"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "corporate User Interface Guidelines"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 29,
+        "Text": "The product shall comply with corporate color scheme",
+        "Purpose": [
+            "The product shall comply with corporate color scheme"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "corporate color scheme"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 30,
+        "Text": "The appearance of the product shall appear professional",
+        "Purpose": [
+            "The appearance of the product shall appear professional"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product"
+        ],
+        "Action": [
+            "appear"
+        ],
+        "System_response": [
+            "appear professional"
+        ]
+    },
+    {
+        "id": 31,
+        "Text": "The software product is expected to run on Windows or Linux platforms.",
+        "Purpose": [
+            "The software product is expected to run on Windows or Linux platforms"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The software product",
+            "Windows",
+            "Linux"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 32,
+        "Text": "The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.",
+        "Purpose": [
+            "The product shall be easy to use by Adjusters and Collision Estimators"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Adjusters",
+            "Collision Estimators"
+        ],
+        "Entity": [
+            "Adjusters",
+            "Collision Estimators",
+            "the product"
+        ],
+        "Action": [
+            "find the product easy to use"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 33,
+        "Text": "The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.",
+        "Purpose": [
+            "increase productivity of Collision Estimators"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Collision Estimators"
+        ],
+        "Entity": [
+            "Collision Estimators",
+            "the product"
+        ],
+        "Action": [
+            "increase"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 34,
+        "Text": "Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.",
+        "Purpose": [
+            "Users shall feel satisfied using the product"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Users"
+        ],
+        "Entity": [
+            "Users",
+            "the product"
+        ],
+        "Action": [
+            "feel satisfied"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 35,
+        "Text": "The user shall easily locate instructions while using the product. User help can be found within 90% of the system.",
+        "Purpose": [
+            "The user shall easily locate instructions while using the product"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The user"
+        ],
+        "Entity": [
+            "The user",
+            "the product",
+            "instructions",
+            "the system"
+        ],
+        "Action": [
+            "shall easily locate"
+        ],
+        "System_response": [
+            "User help can be found"
+        ]
+    },
+    {
+        "id": 36,
+        "Text": "The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.",
+        "Purpose": [
+            "The search for recycled parts shall take no longer than 15 seconds"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "recycled parts",
+            "search results"
+        ],
+        "Action": [
+            "take",
+            "return"
+        ],
+        "System_response": [
+            "take no longer than 15 seconds",
+            "return in under 15 seconds"
+        ]
+    },
+    {
+        "id": 37,
+        "Text": "The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds",
+        "Purpose": [
+            "The search for the preferred repair facility shall take no longer than 8 seconds"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the preferred repair facility",
+            "the search"
+        ],
+        "Action": [
+            "take no longer than"
+        ],
+        "System_response": [
+            "take no longer than 8 seconds"
+        ]
+    },
+    {
+        "id": 38,
+        "Text": "The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.",
+        "Purpose": [
+            "The recycled parts audit report shall be returned to the user within 10 seconds",
+            "The audit report shall be returned within 10 seconds"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the recycled parts audit report",
+            "the audit report",
+            "the user"
+        ],
+        "Action": [
+            "shall be returned"
+        ],
+        "System_response": [
+            "shall be returned within 10 seconds"
+        ]
+    },
+    {
+        "id": 39,
+        "Text": "The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.",
+        "Purpose": [
+            "The preferred repair facility ratings shall be saved within 5 seconds"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "preferred repair facility ratings",
+            "the save"
+        ],
+        "Action": [
+            "shall be saved",
+            "shall occur"
+        ],
+        "System_response": [
+            "shall be saved within 5 seconds"
+        ]
+    },
+    {
+        "id": 40,
+        "Text": "The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.",
+        "Purpose": [
+            "achieve a 98% uptime"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [
+            "available online time"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "the product"
+        ],
+        "Action": [
+            "achieve",
+            "fail"
+        ],
+        "System_response": [
+            "not fail more than 2%"
+        ]
+    },
+    {
+        "id": 41,
+        "Text": "The average number of recycled parts records per day shall be 50 000.",
+        "Purpose": [
+            "The average number of recycled parts records per day shall be 50 000"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "recycled parts records"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 42,
+        "Text": "For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.",
+        "Purpose": [
+            "For estimators the product shall be able to be operated"
+        ],
+        "Trigger": [
+            "during dirty and noisy conditions"
+        ],
+        "Condition": [
+            "during dirty and noisy conditions"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "estimators"
+        ],
+        "Entity": [
+            "the product",
+            "repair facility",
+            "dirty and noisy conditions"
+        ],
+        "Action": [
+            "be operated"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 43,
+        "Text": "The product shall interface with the ChoiceParts system once per day.",
+        "Purpose": [
+            "The product shall interface with the ChoiceParts system once per day"
+        ],
+        "Trigger": [
+            "once per day"
+        ],
+        "Condition": [
+            "once per day"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the ChoiceParts system"
+        ],
+        "Action": [
+            "interface"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 44,
+        "Text": "The maintenance of the product will fall within the established corporate maintenance windows.",
+        "Purpose": [
+            "The maintenance of the product will fall within the established corporate maintenance windows"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "corporate maintenance windows"
+        ],
+        "Action": [
+            "will fall"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 45,
+        "Text": "The product shall be supported using the corporate support center.",
+        "Purpose": [
+            "The product shall be supported"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the corporate support center"
+        ],
+        "Action": [
+            "be supported"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 46,
+        "Text": "Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.",
+        "Purpose": [
+            "Product installations and upgrades shall be handled"
+        ],
+        "Trigger": [
+            "within established launch time frames"
+        ],
+        "Condition": [
+            "within established launch time frames"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the middleware technology team"
+        ],
+        "Entity": [
+            "product installations",
+            "upgrades",
+            "middleware technology team",
+            "launch time frames"
+        ],
+        "Action": [
+            "shall be handled"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 47,
+        "Text": "Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.",
+        "Purpose": [
+            "request recycled parts audit reports"
+        ],
+        "Trigger": [
+            "adjusters"
+        ],
+        "Condition": [
+            "users without an adjuster role"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "adjusters",
+            "users"
+        ],
+        "Entity": [
+            "recycled parts audit reports",
+            "adjusters",
+            "users"
+        ],
+        "Action": [
+            "request"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 48,
+        "Text": "The system shall accept requests for recycled parts audit reports only from users with an 'adjuster' role",
+        "Purpose": [
+            "The system shall accept requests for recycled parts audit reports"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "only from users with an 'adjuster' role"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "users"
+        ],
+        "Entity": [
+            "The system",
+            "users",
+            "requests",
+            "recycled parts audit reports",
+            "adjuster role"
+        ],
+        "Action": [
+            "accept"
+        ],
+        "System_response": [
+            "accept requests"
+        ]
+    },
+    {
+        "id": 49,
+        "Text": "Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.",
+        "Purpose": [
+            "update preferred repair facility ratings"
+        ],
+        "Trigger": [
+            "adjusters with a supervisor role"
+        ],
+        "Condition": [
+            "Users without the supervisor role cannot access the repair facility ratings"
+        ],
+        "Precondition": [
+            "adjusters with a supervisor role"
+        ],
+        "Main_actor": [
+            "adjusters"
+        ],
+        "Entity": [
+            "adjusters",
+            "supervisor role",
+            "repair facility ratings",
+            "users"
+        ],
+        "Action": [
+            "update",
+            "access"
+        ],
+        "System_response": [
+            "update preferred repair facility ratings"
+        ]
+    },
+    {
+        "id": 50,
+        "Text": "The system shall ensure that only adjusters with a supervisor role access preferred repair facility ratings by displaying the relevant data.",
+        "Purpose": [
+            "ensure that only adjusters with a supervisor role access preferred repair facility ratings"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "adjusters with a supervisor role"
+        ],
+        "Entity": [
+            "adjusters",
+            "supervisor role",
+            "preferred repair facility ratings",
+            "system"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display the relevant data"
+        ]
+    },
+    {
+        "id": 51,
+        "Text": "Only collision estimators shall search for recycled parts. Users without the collision estimator role shall not have access to the search for recycled parts.",
+        "Purpose": [
+            "Users with the collision estimator role shall have access to search for recycled parts"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Users with the collision estimator role"
+        ],
+        "Entity": [
+            "Users",
+            "collision estimator role",
+            "recycled parts"
+        ],
+        "Action": [
+            "search for recycled parts"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 52,
+        "Text": "When a user requests to search for recycled parts, the System shall grant access only if the user is a collision estimator.",
+        "Purpose": [
+            "When a user requests to search for recycled parts, the System shall grant access only if the user is a collision estimator"
+        ],
+        "Trigger": [
+            "When a user requests to search for recycled parts"
+        ],
+        "Condition": [
+            "only if the user is a collision estimator"
+        ],
+        "Precondition": [
+            "the user is a collision estimator"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the System",
+            "recycled parts",
+            "collision estimator"
+        ],
+        "Action": [
+            "requests to search",
+            "grant access"
+        ],
+        "System_response": [
+            "grant access"
+        ]
+    },
+    {
+        "id": 53,
+        "Text": "Only valid data shall be entered into the system. No invalid data shall be entered into the system.",
+        "Purpose": [
+            "Only valid data shall be entered into the system"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [
+            "No invalid data shall be entered into the system"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "the system"
+        ],
+        "Action": [
+            "entered"
+        ],
+        "System_response": [
+            "shall be entered"
+        ]
+    },
+    {
+        "id": 54,
+        "Text": "One insurance company shall not be able to view another insurance companys claim data.",
+        "Purpose": [
+            "One insurance company shall not be able to view another insurance company's claim data"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "One insurance company"
+        ],
+        "Entity": [
+            "One insurance company",
+            "another insurance company",
+            "claim data"
+        ],
+        "Action": [
+            "view"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 55,
+        "Text": "The product shall be free of computer viruses.",
+        "Purpose": [
+            "The product shall be free of computer viruses"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The product"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 56,
+        "Text": "The system shall prevent malicious attacks, including denial of service.",
+        "Purpose": [
+            "The system shall prevent malicious attacks"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "malicious attacks"
+        ],
+        "Action": [
+            "prevent"
+        ],
+        "System_response": [
+            "prevent malicious attacks"
+        ]
+    },
+    {
+        "id": 57,
+        "Text": "The product must comply with Sarbanes-Oxley.",
+        "Purpose": [
+            "The product must comply with Sarbanes-Oxley"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The product"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 58,
+        "Text": "The product shall comply with the estimatics laws relating to recycled parts usage.",
+        "Purpose": [
+            "comply with the estimatics laws relating to recycled parts usage"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the estimatics laws",
+            "recycled parts"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 59,
+        "Text": "The product shall comply with insurance regulations regarding claims processing.",
+        "Purpose": [
+            "comply with insurance regulations regarding claims processing"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "insurance regulations",
+            "claims processing"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 60,
+        "Text": "The user shall search for the preferred repair facility using vehicle location and radius in miles",
+        "Purpose": [
+            "The user shall search for the preferred repair facility"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The user"
+        ],
+        "Entity": [
+            "The user",
+            "vehicle location",
+            "radius in miles",
+            "repair facility"
+        ],
+        "Action": [
+            "search"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 61,
+        "Text": "The vehicle data shall include vehicle year make and model",
+        "Purpose": [
+            "The vehicle data shall include vehicle year make and model"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "vehicle",
+            "year",
+            "make",
+            "model"
+        ],
+        "Action": [
+            "include"
+        ],
+        "System_response": [
+            "vehicle year make and model"
+        ]
+    },
+    {
+        "id": 62,
+        "Text": "The vehicle location shall include street address, city, state and zipcode",
+        "Purpose": [
+            "The vehicle location shall include street address, city, state and zipcode"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "vehicle location",
+            "street address",
+            "city",
+            "state",
+            "zipcode"
+        ],
+        "Action": [
+            "include"
+        ],
+        "System_response": [
+            "include street address, city, state and zipcode"
+        ]
+    },
+    {
+        "id": 63,
+        "Text": "The system shall resolve the zipcode for the street address, city and state if zipcode is unknown.",
+        "Purpose": [
+            "The system shall resolve the zipcode for the street address, city and state if zipcode is unknown"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "zipcode",
+            "street address",
+            "city",
+            "state"
+        ],
+        "Action": [
+            "resolve"
+        ],
+        "System_response": [
+            "resolve the zipcode"
+        ]
+    },
+    {
+        "id": 64,
+        "Text": "The search radius shall be between 1 and 30 miles",
+        "Purpose": [],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The search radius"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 65,
+        "Text": "The system shall locate the preferred repair facility with the highest ratings for the input criteria",
+        "Purpose": [
+            "The system shall locate the preferred repair facility"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the system",
+            "the preferred repair facility",
+            "the input criteria"
+        ],
+        "Action": [
+            "locate",
+            "the highest ratings"
+        ],
+        "System_response": [
+            "locate the preferred repair facility with the highest ratings"
+        ]
+    },
+    {
+        "id": 66,
+        "Text": "The adjuster shall enter the preferred repair facility on the estimate assignment.",
+        "Purpose": [
+            "The adjuster shall enter the preferred repair facility on the estimate assignment"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The adjuster"
+        ],
+        "Entity": [
+            "The adjuster",
+            "the preferred repair facility",
+            "the estimate assignment"
+        ],
+        "Action": [
+            "enter"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 67,
+        "Text": "The adjuster shall be able to override the preferred repair facility on the estimate assignment.",
+        "Purpose": [
+            "The adjuster shall be able to override the preferred repair facility on the estimate assignment"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The adjuster"
+        ],
+        "Entity": [
+            "The adjuster",
+            "the preferred repair facility",
+            "the estimate assignment"
+        ],
+        "Action": [
+            "override"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 68,
+        "Text": "The preferred repair facility shall be returned to the user.",
+        "Purpose": [
+            "The preferred repair facility shall be returned to the user"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the preferred repair facility",
+            "the user"
+        ],
+        "Action": [
+            "shall be returned"
+        ],
+        "System_response": [
+            "shall be returned"
+        ]
+    },
+    {
+        "id": 69,
+        "Text": "The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.",
+        "Purpose": [
+            "The system shall return a list of repair facilities within the radius"
+        ],
+        "Trigger": [
+            "if the preferred repair facility cannot be determined"
+        ],
+        "Condition": [
+            "if the preferred repair facility cannot be determined"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the system",
+            "the preferred repair facility",
+            "repair facilities",
+            "the radius"
+        ],
+        "Action": [
+            "return"
+        ],
+        "System_response": [
+            "return a list of repair facilities within the radius"
+        ]
+    },
+    {
+        "id": 70,
+        "Text": "The estimator shall search for available recycled parts using damaged vehicle parts information.",
+        "Purpose": [
+            "The estimator shall search for available recycled parts"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The estimator"
+        ],
+        "Entity": [
+            "damaged vehicle parts information",
+            "available recycled parts"
+        ],
+        "Action": [
+            "search"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 71,
+        "Text": "The estimator shall search for available recycled parts using a list of preferred parts suppliers.",
+        "Purpose": [
+            "The estimator shall search for available recycled parts"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The estimator"
+        ],
+        "Entity": [
+            "available recycled parts",
+            "list of preferred parts suppliers"
+        ],
+        "Action": [
+            "search"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 72,
+        "Text": "The system shall search for available recycled parts for the supplied vehicle parts and suppliers.",
+        "Purpose": [
+            "The system shall search for available recycled parts"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "available recycled parts",
+            "supplied vehicle parts",
+            "suppliers"
+        ],
+        "Action": [
+            "search"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 73,
+        "Text": "The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers",
+        "Purpose": [
+            "search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers"
+        ],
+        "Trigger": [
+            "if no parts are found"
+        ],
+        "Condition": [
+            "if no parts are found for the preferred parts suppliers"
+        ],
+        "Precondition": [
+            "no parts are found for the preferred parts suppliers"
+        ],
+        "Main_actor": [
+            "The estimator"
+        ],
+        "Entity": [
+            "The estimator",
+            "zipcode",
+            "radius of 30 miles",
+            "preferred parts suppliers",
+            "parts"
+        ],
+        "Action": [
+            "search"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 74,
+        "Text": "The system shall retain the available recycled parts and suppliers returned from the search.",
+        "Purpose": [
+            "retain the available recycled parts and suppliers"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the system",
+            "recycled parts",
+            "suppliers"
+        ],
+        "Action": [
+            "retain"
+        ],
+        "System_response": [
+            "retain the available recycled parts and suppliers"
+        ]
+    },
+    {
+        "id": 75,
+        "Text": "The available recycled parts information and their suppliers shall be returned to the user.",
+        "Purpose": [
+            "The available recycled parts information and their suppliers shall be returned to the user"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "available recycled parts information",
+            "their suppliers",
+            "the user"
+        ],
+        "Action": [
+            "shall be returned"
+        ],
+        "System_response": [
+            "shall be returned"
+        ]
+    },
+    {
+        "id": 76,
+        "Text": "The estimator shall apply selected recycled parts to the collision estimate.",
+        "Purpose": [
+            "The estimator shall apply selected recycled parts to the collision estimate"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The estimator"
+        ],
+        "Entity": [
+            "The estimator",
+            "recycled parts",
+            "collision estimate"
+        ],
+        "Action": [
+            "apply"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 77,
+        "Text": "The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.",
+        "Purpose": [
+            "The estimator shall not apply recycled parts to the collision estimate"
+        ],
+        "Trigger": [
+            "if no available parts are returned"
+        ],
+        "Condition": [
+            "if no available parts are returned"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "The estimator"
+        ],
+        "Entity": [
+            "The estimator",
+            "recycled parts",
+            "collision estimate",
+            "available parts"
+        ],
+        "Action": [
+            "shall not apply"
+        ],
+        "System_response": [
+            "shall not apply recycled parts"
+        ]
+    },
+    {
+        "id": 78,
+        "Text": "The adjuster shall review the collision estimate.",
+        "Purpose": [
+            "The adjuster shall review the collision estimate"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The adjuster"
+        ],
+        "Entity": [
+            "The adjuster",
+            "the collision estimate"
+        ],
+        "Action": [
+            "review"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 79,
+        "Text": "The adjuster shall request a recycled parts audit of the collision estimate.",
+        "Purpose": [
+            "The adjuster shall request a recycled parts audit of the collision estimate"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The adjuster"
+        ],
+        "Entity": [
+            "The adjuster",
+            "recycled parts",
+            "collision estimate"
+        ],
+        "Action": [
+            "request"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 80,
+        "Text": "The recycled parts search results provided to the estimator shall be retrieved by the system.",
+        "Purpose": [
+            "The recycled parts search results provided to the estimator shall be retrieved by the system"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the estimator"
+        ],
+        "Entity": [
+            "the system",
+            "the recycled parts search results",
+            "the estimator"
+        ],
+        "Action": [
+            "shall be retrieved"
+        ],
+        "System_response": [
+            "shall be retrieved"
+        ]
+    },
+    {
+        "id": 81,
+        "Text": "The system shall generate an audit report based on the available recycled parts and the collision estimate.",
+        "Purpose": [
+            "The system shall generate an audit report"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the system",
+            "available recycled parts",
+            "collision estimate",
+            "audit report"
+        ],
+        "Action": [
+            "generate",
+            "based on"
+        ],
+        "System_response": [
+            "generate an audit report"
+        ]
+    },
+    {
+        "id": 82,
+        "Text": "The audit report shall include the total number of recycled parts used in the estimate.",
+        "Purpose": [
+            "The audit report shall include the total number of recycled parts used in the estimate"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The audit report",
+            "recycled parts",
+            "the estimate"
+        ],
+        "Action": [
+            "include"
+        ],
+        "System_response": [
+            "include the total number of recycled parts used in the estimate"
+        ]
+    },
+    {
+        "id": 83,
+        "Text": "The audit report shall include the number of available recycled parts from the original search results.",
+        "Purpose": [
+            "The audit report shall include the number of available recycled parts from the original search results"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The audit report",
+            "available recycled parts",
+            "original search results"
+        ],
+        "Action": [
+            "include"
+        ],
+        "System_response": [
+            "include the number of available recycled parts"
+        ]
+    },
+    {
+        "id": 84,
+        "Text": "The audit report shall include the percentage of available recycled parts used in the estimate",
+        "Purpose": [
+            "The audit report shall include the percentage of available recycled parts used in the estimate"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The audit report",
+            "recycled parts",
+            "the estimate"
+        ],
+        "Action": [
+            "include"
+        ],
+        "System_response": [
+            "include the percentage of available recycled parts used in the estimate"
+        ]
+    },
+    {
+        "id": 85,
+        "Text": "The audit report shall include the total score of the audit which sums the individual line items.",
+        "Purpose": [
+            "The audit report shall include the total score of the audit which sums the individual line items"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The audit report",
+            "the total score",
+            "the audit",
+            "the individual line items"
+        ],
+        "Action": [
+            "include",
+            "sums"
+        ],
+        "System_response": [
+            "include the total score"
+        ]
+    },
+    {
+        "id": 86,
+        "Text": "The audit report shall be displayed to the user.",
+        "Purpose": [
+            "The audit report shall be displayed to the user"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the audit report",
+            "the user"
+        ],
+        "Action": [
+            "shall be displayed"
+        ],
+        "System_response": [
+            "shall be displayed"
+        ]
+    },
+    {
+        "id": 87,
+        "Text": "The audit report shall be available to other adjusters at later points in time.",
+        "Purpose": [
+            "The audit report shall be available to other adjusters at later points in time"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "other adjusters"
+        ],
+        "Entity": [
+            "the audit report",
+            "other adjusters",
+            "later points in time"
+        ],
+        "Action": [
+            "be available"
+        ],
+        "System_response": [
+            "be available"
+        ]
+    },
+    {
+        "id": 88,
+        "Text": "The user shall select to view the preferred repair facility ratings.",
+        "Purpose": [
+            "The user shall select to view the preferred repair facility ratings"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The user"
+        ],
+        "Entity": [
+            "The user",
+            "repair facility",
+            "ratings"
+        ],
+        "Action": [
+            "select",
+            "view"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 89,
+        "Text": "The system shall display the preferred repair facility ratings with at least 99% accuracy within 2 seconds when the user selects the continuously available icon in the user interface.",
+        "Purpose": [
+            "The system shall display the preferred repair facility ratings"
+        ],
+        "Trigger": [
+            "when the user selects the continuously available icon"
+        ],
+        "Condition": [
+            "in the user interface",
+            "with at least 99% accuracy"
+        ],
+        "Precondition": [
+            "within 2 seconds",
+            "when the user selects the continuously available icon"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the system",
+            "the user",
+            "the preferred repair facility ratings",
+            "the continuously available icon",
+            "the user interface"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display the preferred repair facility ratings"
+        ]
+    },
+    {
+        "id": 90,
+        "Text": "The current repair facility ratings shall be displayed to the user.",
+        "Purpose": [
+            "The current repair facility ratings shall be displayed to the user"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the current repair facility ratings",
+            "the user"
+        ],
+        "Action": [
+            "shall be displayed"
+        ],
+        "System_response": [
+            "shall be displayed"
+        ]
+    },
+    {
+        "id": 91,
+        "Text": "The system will display a blank set of ratings if there are not ratings yet defined.",
+        "Purpose": [
+            "The system will display a blank set of ratings"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "ratings"
+        ],
+        "Action": [
+            "will display"
+        ],
+        "System_response": [
+            "will display a blank set of ratings"
+        ]
+    },
+    {
+        "id": 92,
+        "Text": "The user shall enter new ratings based on the audit report",
+        "Purpose": [
+            "The user shall enter new ratings based on the audit report"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The user"
+        ],
+        "Entity": [
+            "The user",
+            "new ratings",
+            "the audit report"
+        ],
+        "Action": [
+            "shall enter"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 93,
+        "Text": "The ratings shall be from a scale of 1-10",
+        "Purpose": [
+            "The ratings shall be from a scale of 1-10"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "ratings",
+            "scale of 1-10"
+        ],
+        "Action": [
+            "be"
+        ],
+        "System_response": [
+            "be from a scale of 1-10"
+        ]
+    },
+    {
+        "id": 94,
+        "Text": "The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts",
+        "Purpose": [
+            "The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The ratings",
+            "recycled parts"
+        ],
+        "Action": [
+            "include",
+            "attempted use",
+            "actual use"
+        ],
+        "System_response": [
+            "include categories"
+        ]
+    },
+    {
+        "id": 95,
+        "Text": "The user shall select to save the preferred repair facility ratings.",
+        "Purpose": [
+            "The user shall select to save the preferred repair facility ratings"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The user"
+        ],
+        "Entity": [
+            "The user",
+            "repair facility ratings"
+        ],
+        "Action": [
+            "select",
+            "save"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 96,
+        "Text": "The preferred repair facility ratings shall be saved by the system.",
+        "Purpose": [
+            "The preferred repair facility ratings shall be saved"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the system",
+            "the preferred repair facility ratings"
+        ],
+        "Action": [
+            "shall be saved"
+        ],
+        "System_response": [
+            "shall be saved"
+        ]
+    },
+    {
+        "id": 97,
+        "Text": "The product must work with most database management systems (DBMS) on the market whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network.",
+        "Purpose": [
+            "The product must work with most database management systems (DBMS) on the market"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer network"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "database management systems (DBMS)",
+            "machine",
+            "computer network"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 98,
+        "Text": "The product will function alongside server software on any operating system where the Java runtime can be installed.",
+        "Purpose": [
+            "The product will function alongside server software on any operating system where the Java runtime can be installed"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "server software",
+            "operating system",
+            "Java runtime"
+        ],
+        "Action": [
+            "function"
+        ],
+        "System_response": [
+            "function"
+        ]
+    },
+    {
+        "id": 99,
+        "Text": "The product must make use of web/application server technology. Open source examples include Apache web server Tomcat and the JBoss application server.",
+        "Purpose": [
+            "make use of web/application server technology"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "product",
+            "web/application server technology",
+            "Apache web server",
+            "Tomcat",
+            "JBoss application server"
+        ],
+        "Action": [
+            "make use"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 100,
+        "Text": "A database management system such as Oracle DB2 MySql or HSQL will need to be integrated with the product.",
+        "Purpose": [
+            "make use of web/application server technology"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "product",
+            "web/application server technology",
+            "Apache web server",
+            "Tomcat",
+            "JBoss application server"
+        ],
+        "Action": [
+            "make use"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 101,
+        "Text": "The product's Look and Feel shall be able to incorporate aspects of the customer's organization such as logo branding and identity",
+        "Purpose": [
+            "The product's Look and Feel shall be able to incorporate aspects of the customer's organization"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the customer"
+        ],
+        "Entity": [
+            "the product",
+            "the customer's organization",
+            "logo branding",
+            "identity"
+        ],
+        "Action": [
+            "incorporate"
+        ],
+        "System_response": [
+            "be able to incorporate"
+        ]
+    },
+    {
+        "id": 102,
+        "Text": "The product shall be expected to operate for at least 5 years for each customer installation.",
+        "Purpose": [
+            "The product shall be expected to operate for at least 5 years for each customer installation"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [
+            "at least 5 years",
+            "for each customer installation"
+        ],
+        "Main_actor": [
+            "each customer"
+        ],
+        "Entity": [
+            "the product",
+            "each customer",
+            "installation"
+        ],
+        "Action": [
+            "operate"
+        ],
+        "System_response": [
+            "operate"
+        ]
+    },
+    {
+        "id": 103,
+        "Text": "The product shall be used in office environments.",
+        "Purpose": [
+            "The product shall be used in office environments"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "office environments"
+        ],
+        "Action": [],
+        "System_response": []
+    },
+    {
+        "id": 104,
+        "Text": "The product must be able to interface with any HTML browser.",
+        "Purpose": [
+            "The product must be able to interface with any HTML browser"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "any HTML browser"
+        ],
+        "Action": [
+            "interface"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 105,
+        "Text": "The product shall transmit data between the user and the product without problems.",
+        "Purpose": [
+            "The product shall transmit data between the user and the product without problems"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the product",
+            "data"
+        ],
+        "Action": [
+            "transmit"
+        ],
+        "System_response": [
+            "transmit data without problems"
+        ]
+    },
+    {
+        "id": 106,
+        "Text": "The product shall display HTML properly in 80% of all HTML browsers tested (minimum is to test 8 browsers).",
+        "Purpose": [
+            "display HTML properly"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "in 80% of all HTML browsers tested"
+        ],
+        "Precondition": [
+            "minimum is to test 8 browsers"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "HTML browsers"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display HTML properly"
+        ]
+    },
+    {
+        "id": 107,
+        "Text": "The product must be able to interface with various database management systems.",
+        "Purpose": [
+            "The product must be able to interface with various database management systems"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "database management systems"
+        ],
+        "Action": [
+            "interface"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 108,
+        "Text": "The product shall communicate successfully with the database management system on 100% of all transactions.",
+        "Purpose": [
+            "The product shall communicate successfully with the database management system on 100% of all transactions"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [
+            "100% of all transactions"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the database management system"
+        ],
+        "Action": [
+            "communicate"
+        ],
+        "System_response": [
+            "communicate successfully"
+        ]
+    },
+    {
+        "id": 109,
+        "Text": "The product must be able to interface with various email servers.",
+        "Purpose": [
+            "The product must be able to interface with various email servers"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "email servers"
+        ],
+        "Action": [
+            "interface"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 110,
+        "Text": "The product shall be able to send email.",
+        "Purpose": [
+            "The product shall be able to send email"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "email"
+        ],
+        "Action": [
+            "send"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 111,
+        "Text": "The product shall be available for distribution via the internet as a binary or ZIP file.",
+        "Purpose": [
+            "The product shall be available for distribution via the internet as a binary or ZIP file"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "the internet",
+            "a binary",
+            "a ZIP file"
+        ],
+        "Action": [
+            "be available for distribution"
+        ],
+        "System_response": [
+            "be available for distribution"
+        ]
+    },
+    {
+        "id": 112,
+        "Text": "The product shall be available for distribution as a packaged CD.",
+        "Purpose": [
+            "The product shall be available for distribution as a packaged CD"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product",
+            "a packaged CD"
+        ],
+        "Action": [
+            "be available for distribution"
+        ],
+        "System_response": [
+            "be available for distribution as a packaged CD"
+        ]
+    },
+    {
+        "id": 113,
+        "Text": "The product will be available for licensing as a one-server, two-five servers, or five-or-more servers license.",
+        "Purpose": [
+            "The product will be available for licensing"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "the product"
+        ],
+        "Action": [
+            "will be available for licensing"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 114,
+        "Text": "A new user must be able to be added to the system within 10 minutes.",
+        "Purpose": [
+            "A new user must be able to be added to the system within 10 minutes"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a new user"
+        ],
+        "Entity": [
+            "the system",
+            "a new user"
+        ],
+        "Action": [
+            "must be able to be added"
+        ],
+        "System_response": [
+            "must be able to be added"
+        ]
+    },
+    {
+        "id": 115,
+        "Text": "90% of new users are able to log into the system within 10 minutes.",
+        "Purpose": [
+            "90% of new users are able to log into the system within 10 minutes"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "new users"
+        ],
+        "Entity": [
+            "new users",
+            "the system"
+        ],
+        "Action": [
+            "log into"
+        ],
+        "System_response": [
+            "are able to log into the system within 10 minutes"
+        ]
+    },
+    {
+        "id": 116,
+        "Text": "The product must be designed using Design Patterns and coding best practices.",
+        "Purpose": [
+            "The product must be designed using Design Patterns and coding best practices"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The product"
+        ],
+        "Action": [
+            "must be designed"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 117,
+        "Text": "The product must be highly configurable for use with various database management systems for the end users.",
+        "Purpose": [
+            "The product must be highly configurable for use with various database management systems for the end users"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the end users"
+        ],
+        "Entity": [
+            "the product",
+            "database management systems",
+            "end users"
+        ],
+        "Action": [
+            "must be highly configurable"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 118,
+        "Text": "80% of end users are able to integrate new database management systems with the product without changing the product's software code.",
+        "Purpose": [
+            "80% of end users are able to integrate new database management systems with the product without changing the product's software code"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "end users"
+        ],
+        "Entity": [
+            "end users",
+            "new database management systems",
+            "the product"
+        ],
+        "Action": [
+            "integrate"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 119,
+        "Text": "Maintenance releases will be offered to customers once a year.",
+        "Purpose": [
+            "Maintenance releases will be offered to customers once a year"
+        ],
+        "Trigger": [
+            "once a year"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "customers"
+        ],
+        "Entity": [
+            "customers",
+            "maintenance releases"
+        ],
+        "Action": [
+            "will be offered"
+        ],
+        "System_response": [
+            "will be offered"
+        ]
+    },
+    {
+        "id": 120,
+        "Text": "The releases shall take no longer than 5 minutes for 80% of the customer base to install.",
+        "Purpose": [
+            "The releases shall take no longer than 5 minutes for 80% of the customer base to install"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "80% of the customer base"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the customer"
+        ],
+        "Entity": [
+            "the releases",
+            "the customer base"
+        ],
+        "Action": [
+            "take no longer than 5 minutes"
+        ],
+        "System_response": [
+            "take no longer than 5 minutes"
+        ]
+    },
+    {
+        "id": 121,
+        "Text": "Every registered user will have access to the product's support site via the internet.",
+        "Purpose": [
+            "Every registered user will have access to the product's support site via the internet"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Every registered user"
+        ],
+        "Entity": [
+            "Every registered user",
+            "the product",
+            "the product's support site",
+            "the internet"
+        ],
+        "Action": [
+            "will have access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 122,
+        "Text": "70% of registered users shall find a solution to their problem within 5 minutes of using the support site.",
+        "Purpose": [
+            "70% of registered users shall find a solution to their problem"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "registered users"
+        ],
+        "Entity": [
+            "registered users",
+            "solution",
+            "problem",
+            "support site"
+        ],
+        "Action": [
+            "find"
+        ],
+        "System_response": [
+            "find a solution"
+        ]
+    },
+    {
+        "id": 123,
+        "Text": "The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle.",
+        "Purpose": [
+            "The customer shall be able to easily integrate new building maps with the product throughout the product's lifecycle"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The customer"
+        ],
+        "Entity": [
+            "The customer",
+            "new building maps",
+            "the product"
+        ],
+        "Action": [
+            "be able to easily integrate"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 124,
+        "Text": "Integration of new maps with the product shall be possible with little to no support from product support staff.",
+        "Purpose": [
+            "Integration of new maps with the product"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "product",
+            "product support staff",
+            "new maps"
+        ],
+        "Action": [
+            "shall be possible"
+        ],
+        "System_response": [
+            "with little to no support"
+        ]
+    },
+    {
+        "id": 125,
+        "Text": "For each emerging target market, it shall take no more than 5 days to configure the product for that market's language.",
+        "Purpose": [
+            "For each emerging target market, it shall take no more than 5 days to configure the product for that market's language"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "emerging target market",
+            "product",
+            "market's language"
+        ],
+        "Action": [
+            "configure"
+        ],
+        "System_response": [
+            "take no more than 5 days"
+        ]
+    },
+    {
+        "id": 126,
+        "Text": "The product is expected to integrate with multiple database management systems.",
+        "Purpose": [
+            "The product is expected to integrate with multiple database management systems"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "multiple database management systems"
+        ],
+        "Action": [
+            "integrate"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 127,
+        "Text": "The system supports (but does not require) streamlined staff login methods, for example staff member swipes a card to log into a terminal or the staff member logs into a terminal by using his/her individual login and password.",
+        "Purpose": [
+            "streamlined staff login methods"
+        ],
+        "Trigger": [
+            "staff member swipes a card",
+            "staff member logs into a terminal"
+        ],
+        "Condition": [
+            "staff member swipes a card",
+            "staff member logs into a terminal"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "staff member"
+        ],
+        "Entity": [
+            "staff member",
+            "card",
+            "terminal",
+            "login",
+            "password"
+        ],
+        "Action": [
+            "swipes",
+            "logs into"
+        ],
+        "System_response": [
+            "log into a terminal"
+        ]
+    },
+    {
+        "id": 128,
+        "Text": "System administrators can create reliable report templates that are available to staff, and can be run as is or modified to the staff person's particular needs. Changes in the templates could be done without comprising the results. The administrator can limit the filters and display fields that can be altered to certify a dependable output. For example, front-line staff could set the call number range for a wedding report or add or remove designated display fields from a pick list, but couldn\u2019t alter the template to display deleted items.",
+        "Purpose": [
+            "create reliable report templates",
+            "be available to staff",
+            "run as is or modified to the staff person's particular needs"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "without comprising the results"
+        ],
+        "Precondition": [
+            "Changes in the templates could be done without comprising the results"
+        ],
+        "Main_actor": [
+            "System administrators",
+            "staff"
+        ],
+        "Entity": [
+            "report templates",
+            "staff",
+            "system administrators",
+            "filters",
+            "display fields",
+            "call number range",
+            "wedding report",
+            "pick list",
+            "deleted items"
+        ],
+        "Action": [
+            "create",
+            "be available",
+            "run",
+            "modify",
+            "limit",
+            "alter",
+            "set",
+            "add",
+            "remove"
+        ],
+        "System_response": [
+            "create reliable report templates",
+            "be available to staff",
+            "run as is or modified to the staff person's particular needs",
+            "limit the filters and display fields that can be altered to certify a dependable output"
+        ]
+    },
+    {
+        "id": 129,
+        "Text": "System provides distinct, fine-grained permission levels limiting who can create and clone reports. All permissions should be easy to administer. System administrators can create shared folders to allow or disallow staff to run specific reports, and/or to run ad hoc reports on specific sets of data.",
+        "Purpose": [
+            "System provides distinct, fine-grained permission levels limiting who can create and clone reports"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "System administrators",
+            "staff"
+        ],
+        "Entity": [
+            "System",
+            "staff",
+            "shared folders",
+            "reports",
+            "data"
+        ],
+        "Action": [
+            "create",
+            "clone",
+            "allow",
+            "disallow",
+            "run"
+        ],
+        "System_response": [
+            "provide distinct, fine-grained permission levels",
+            "limit who can create and clone reports",
+            "make permissions easy to administer"
+        ]
+    },
+    {
+        "id": 130,
+        "Text": "System provides a user-friendly interface for designing queries against all record types. Staff can select fields to query; select values from picklist of possible values; select regular expressions from drop-down menu, and use a full range of Boolean operators. Administrators control staff access to tables and fields.",
+        "Purpose": [
+            "System provides a user-friendly interface for designing queries against all record types"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user",
+            "staff",
+            "administrators"
+        ],
+        "Entity": [
+            "the system",
+            "staff",
+            "administrators",
+            "tables",
+            "fields",
+            "record types"
+        ],
+        "Action": [
+            "designing queries",
+            "select fields",
+            "select values",
+            "select regular expressions",
+            "use Boolean operators"
+        ],
+        "System_response": [
+            "provides a user-friendly interface"
+        ]
+    },
+    {
+        "id": 131,
+        "Text": "The system provides pre-defined reports for consumption by library boards or other consumers.",
+        "Purpose": [
+            "The system provides pre-defined reports for consumption by library boards or other consumers"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "library boards or other consumers"
+        ],
+        "Entity": [
+            "The system",
+            "library boards or other consumers",
+            "pre-defined reports"
+        ],
+        "Action": [
+            "provides"
+        ],
+        "System_response": [
+            "provides pre-defined reports"
+        ]
+    },
+    {
+        "id": 132,
+        "Text": "Transactions are archived in a form that protects patron privacy as defined by State Law, while providing useful demographic statistics.",
+        "Purpose": [
+            "protects patron privacy as defined by State Law",
+            "providing useful demographic statistics"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "as defined by State Law"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "patron",
+            "State Law",
+            "transactions"
+        ],
+        "Action": [
+            "archived"
+        ],
+        "System_response": [
+            "archived"
+        ]
+    },
+    {
+        "id": 133,
+        "Text": "System provides the query selections along with the results.",
+        "Purpose": [
+            "System provides the query selections along with the results"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "System",
+            "query selections",
+            "results"
+        ],
+        "Action": [
+            "provides"
+        ],
+        "System_response": [
+            "provides the query selections along with the results"
+        ]
+    },
+    {
+        "id": 134,
+        "Text": "System must be able to support the reporting definitions as described in Appendix A.",
+        "Purpose": [
+            "support the reporting definitions"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "System",
+            "Appendix A"
+        ],
+        "Action": [
+            "support"
+        ],
+        "System_response": [
+            "support the reporting definitions as described in Appendix A"
+        ]
+    },
+    {
+        "id": 135,
+        "Text": "The system produces statistics that can be used to understand and predict patron behavior and use of materials.",
+        "Purpose": [
+            "understand and predict patron behavior and use of materials"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "patron"
+        ],
+        "Entity": [
+            "patron",
+            "materials",
+            "system",
+            "statistics"
+        ],
+        "Action": [
+            "produce"
+        ],
+        "System_response": [
+            "produce statistics"
+        ]
+    },
+    {
+        "id": 136,
+        "Text": "The system produces useful demographic statistics, including transactions by geographical regions, age ranges, etc. The data used to produce these statistics must be anonymized, i.e. information that could be used to identify a patron is deleted.",
+        "Purpose": [
+            "The system produces useful demographic statistics"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [
+            "The data used to produce these statistics must be anonymized"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "demographic statistics",
+            "transactions",
+            "geographical regions",
+            "age ranges",
+            "patron",
+            "data"
+        ],
+        "Action": [
+            "produce",
+            "delete"
+        ],
+        "System_response": [
+            "produce useful demographic statistics"
+        ]
+    },
+    {
+        "id": 137,
+        "Text": "The system provides an interface showing capacity of all branches (as defined in PINES-014).",
+        "Purpose": [
+            "The system provides an interface showing capacity of all branches"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "interface",
+            "branches"
+        ],
+        "Action": [
+            "provides",
+            "showing"
+        ],
+        "System_response": [
+            "provides an interface showing capacity of all branches"
+        ]
+    },
+    {
+        "id": 138,
+        "Text": "The system provides reports of missing and damaged items per branch.",
+        "Purpose": [
+            "The system provides reports of missing and damaged items per branch"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "reports",
+            "missing and damaged items",
+            "branch"
+        ],
+        "Action": [
+            "provides"
+        ],
+        "System_response": [
+            "reports of missing and damaged items per branch"
+        ]
+    },
+    {
+        "id": 139,
+        "Text": "The system generates a list of items that have been in-transit for more than X days (X configurable), per branch and per system. The report would merge the transit to and transit from into one report for ease of front-line staff use.",
+        "Purpose": [
+            "The system generates a list of items that have been in-transit for more than X days"
+        ],
+        "Trigger": [
+            "X configurable"
+        ],
+        "Condition": [
+            "per branch",
+            "per system"
+        ],
+        "Precondition": [
+            "X configurable"
+        ],
+        "Main_actor": [
+            "front-line staff"
+        ],
+        "Entity": [
+            "items",
+            "the system",
+            "branch",
+            "system",
+            "report"
+        ],
+        "Action": [
+            "generates",
+            "merge"
+        ],
+        "System_response": [
+            "generates a list of items that have been in-transit for more than X days"
+        ]
+    },
+    {
+        "id": 140,
+        "Text": "Queries and reports can be limited or grouped by various patron characteristics, including: age range, zip code, county of residence, home branch, patron type, and preferred language.",
+        "Purpose": [
+            "Queries and reports can be limited or grouped by various patron characteristics"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "patron characteristics"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "patrons"
+        ],
+        "Entity": [
+            "patrons",
+            "age range",
+            "zip code",
+            "county of residence",
+            "home branch",
+            "patron type",
+            "preferred language"
+        ],
+        "Action": [
+            "limited",
+            "grouped"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 141,
+        "Text": "The system generates a list of patrons with no circulation or electronic activity in the last X days (X configurable). List should be configurable to System, Home Library, County, etc.",
+        "Purpose": [
+            "Queries and reports can be limited or grouped by various patron characteristics"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "patron characteristics"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "patrons"
+        ],
+        "Entity": [
+            "patrons",
+            "age range",
+            "zip code",
+            "county of residence",
+            "home branch",
+            "patron type",
+            "preferred language"
+        ],
+        "Action": [
+            "limited",
+            "grouped"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 142,
+        "Text": "Transaction history is maintained for X days (X is configurable); monthly and annual aggregate information is maintained indefinitely.",
+        "Purpose": [
+            "Transaction history is maintained for X days"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "X is configurable"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "Transaction history",
+            "X days",
+            "monthly",
+            "annual aggregate information"
+        ],
+        "Action": [
+            "maintained"
+        ],
+        "System_response": [
+            "maintained"
+        ]
+    },
+    {
+        "id": 143,
+        "Text": "Transactions can be grouped by hour, terminal, branch, and system. Transactions include check-ins, check-outs, fines collected, patron registrations, etc., and can be queried by all transactions or by type of transaction.",
+        "Purpose": [
+            "Transactions can be grouped by hour, terminal, branch, and system"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "by hour",
+            "by terminal",
+            "by branch",
+            "by system"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "Transactions",
+            "hour",
+            "terminal",
+            "branch",
+            "system",
+            "check-ins",
+            "check-outs",
+            "fines collected",
+            "patron registrations"
+        ],
+        "Action": [
+            "can be grouped",
+            "can be queried"
+        ],
+        "System_response": [
+            "can be grouped",
+            "can be queried"
+        ]
+    },
+    {
+        "id": 144,
+        "Text": "The system counts all types of check-in individually and cumulatively: book-drop, by terminal, by user or self-service.",
+        "Purpose": [
+            "The system counts all types of check-in individually and cumulatively"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "types of check-in",
+            "book-drop",
+            "terminal",
+            "user",
+            "self-service"
+        ],
+        "Action": [
+            "counts",
+            "individually",
+            "cumulatively"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 145,
+        "Text": "The system counts all types of check-out individually and cumulatively: staff check-out, self check-out, staff renewal, self checkout renewal, online renewal, OPAC renewal.",
+        "Purpose": [
+            "The system counts all types of check-out individually and cumulatively"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "staff check-out",
+            "self check-out",
+            "staff renewal",
+            "self checkout renewal",
+            "online renewal",
+            "OPAC renewal"
+        ],
+        "Action": [
+            "counts",
+            "individually",
+            "cumulatively"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 146,
+        "Text": "The system counts all hold requests, including how the hold was placed: at a staff desk, at a public computer inside the library, or remotely.",
+        "Purpose": [
+            "The system counts all hold requests"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "hold requests",
+            "staff desk",
+            "public computer",
+            "library",
+            "remotely"
+        ],
+        "Action": [
+            "counts",
+            "include"
+        ],
+        "System_response": [
+            "counts all hold requests"
+        ]
+    },
+    {
+        "id": 147,
+        "Text": "The system can generate a report of transactions (holds placed, holds filled, and check-outs) per patron, per library, per selected group of libraries, per system, per county. The system displays the number of check-outs and placed holds per patron. Holds are subtotaled by type, e.g. active, frozen, and frozen-until holds.",
+        "Purpose": [
+            "generate a report of transactions",
+            "display the number of check-outs and placed holds per patron"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "per patron",
+            "per library",
+            "per selected group of libraries",
+            "per system",
+            "per county"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "The system",
+            "patron"
+        ],
+        "Entity": [
+            "transactions",
+            "report",
+            "patron",
+            "library",
+            "group of libraries",
+            "system",
+            "county",
+            "check-outs",
+            "placed holds",
+            "holds"
+        ],
+        "Action": [
+            "generate",
+            "display",
+            "subtotaled"
+        ],
+        "System_response": [
+            "generate a report of transactions",
+            "display the number of check-outs and placed holds per patron"
+        ]
+    },
+    {
+        "id": 148,
+        "Text": "The system can generate a report of the value of items (based on data in item record) in the entire collection or a portion. Example: staff can obtain value of all items with status of longoverdue, or value of all dvds in children's collection, or value of entire collection.",
+        "Purpose": [
+            "generate a report of transactions",
+            "display the number of check-outs and placed holds per patron"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "per patron",
+            "per library",
+            "per selected group of libraries",
+            "per system",
+            "per county"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "The system",
+            "patron"
+        ],
+        "Entity": [
+            "transactions",
+            "report",
+            "patron",
+            "library",
+            "group of libraries",
+            "system",
+            "county",
+            "check-outs",
+            "placed holds",
+            "holds"
+        ],
+        "Action": [
+            "generate",
+            "display",
+            "subtotaled"
+        ],
+        "System_response": [
+            "generate a report of transactions",
+            "display the number of check-outs and placed holds per patron"
+        ]
+    },
+    {
+        "id": 149,
+        "Text": "All reports and data archiving must comply with standard accounting practice and state, county, and municipal auditing requirements.",
+        "Purpose": [
+            "All reports and data archiving must comply with standard accounting practice and state, county, and municipal auditing requirements"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "reports",
+            "data",
+            "standard accounting practice",
+            "state",
+            "county",
+            "municipal auditing requirements"
+        ],
+        "Action": [
+            "comply"
+        ],
+        "System_response": [
+            "comply"
+        ]
+    },
+    {
+        "id": 150,
+        "Text": "Fines, charges, waivers, and ecommerce transactions are attached to patron and item records. System tracks fines waived and payments made per library. Financial information can be updated easily. As an example, a staff user can easily query patron accounts with balances greater than X dollars.",
+        "Purpose": [
+            "Fines, charges, waivers, and ecommerce transactions are attached to patron and item records"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "staff user"
+        ],
+        "Entity": [
+            "patron",
+            "item",
+            "library",
+            "fines",
+            "waivers",
+            "ecommerce transactions"
+        ],
+        "Action": [
+            "track",
+            "update",
+            "query"
+        ],
+        "System_response": [
+            "tracks fines waived and payments made per library",
+            "Financial information can be updated easily"
+        ]
+    },
+    {
+        "id": 151,
+        "Text": "The system maintains a ledger of patron payments, including which charges payments are applied to, to facilitate reconciliation.",
+        "Purpose": [
+            "facilitate reconciliation"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The system"
+        ],
+        "Entity": [
+            "patron payments",
+            "ledger",
+            "charges",
+            "payments"
+        ],
+        "Action": [
+            "maintains",
+            "includes"
+        ],
+        "System_response": [
+            "facilitate reconciliation"
+        ]
+    },
+    {
+        "id": 152,
+        "Text": "The user can divide a pdf document into parts, following some options for how to split the document. Then he can save the output pdf files in a directory he wants.",
+        "Purpose": [
+            "facilitate reconciliation"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The system"
+        ],
+        "Entity": [
+            "patron payments",
+            "ledger",
+            "charges",
+            "payments"
+        ],
+        "Action": [
+            "maintains",
+            "includes"
+        ],
+        "System_response": [
+            "facilitate reconciliation"
+        ]
+    },
+    {
+        "id": 153,
+        "Text": "The user has to select the Split option from the plugins tree (or press the \"S\" key) to display the split panel.",
+        "Purpose": [
+            "display the split panel"
+        ],
+        "Trigger": [
+            "select the Split option from the plugins tree",
+            "press the 'S' key"
+        ],
+        "Condition": [
+            "select the Split option from the plugins tree",
+            "press the 'S' key"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the plugins tree",
+            "the split panel"
+        ],
+        "Action": [
+            "select",
+            "press"
+        ],
+        "System_response": [
+            "display the split panel"
+        ]
+    },
+    {
+        "id": 154,
+        "Text": "If the document is protected, the user have to enter the password to the appropriate field and then reload the pdf.",
+        "Purpose": [
+            "display the split panel"
+        ],
+        "Trigger": [
+            "select the Split option from the plugins tree",
+            "press the 'S' key"
+        ],
+        "Condition": [
+            "select the Split option from the plugins tree",
+            "press the 'S' key"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the plugins tree",
+            "the split panel"
+        ],
+        "Action": [
+            "select",
+            "press"
+        ],
+        "System_response": [
+            "display the split panel"
+        ]
+    },
+    {
+        "id": 155,
+        "Text": "The user can split only once document at a time.",
+        "Purpose": [
+            "The user can split only one document at a time"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "a document"
+        ],
+        "Action": [
+            "can split"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 156,
+        "Text": "The user has to select the Merge/Extract option from the plugins tree (or press the \"M\" key) to display the merge/extract panel.",
+        "Purpose": [
+            "display the merge/extract panel"
+        ],
+        "Trigger": [
+            "select the Merge/Extract option from the plugins tree",
+            "press the 'M' key"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the plugins tree",
+            "the merge/extract panel"
+        ],
+        "Action": [
+            "select",
+            "press"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 157,
+        "Text": "When the user presses the \"M\" key, and the Merge panel is currently displayed, the system shall close the Merge panel within 2 seconds.",
+        "Purpose": [
+            "When the user presses the 'M' key, and the Merge panel is currently displayed, the system shall close the Merge panel within 2 seconds"
+        ],
+        "Trigger": [
+            "When the user presses the 'M' key"
+        ],
+        "Condition": [
+            "and the Merge panel is currently displayed"
+        ],
+        "Precondition": [
+            "the Merge panel is currently displayed"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the 'M' key",
+            "the Merge panel",
+            "the system"
+        ],
+        "Action": [
+            "presses",
+            "close"
+        ],
+        "System_response": [
+            "close the Merge panel within 2 seconds"
+        ]
+    },
+    {
+        "id": 158,
+        "Text": "The user presses the RUN button to start the merging of the files.",
+        "Purpose": [
+            "The user presses the RUN button to start the merging of the files"
+        ],
+        "Trigger": [
+            "The user presses the RUN button"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the RUN button",
+            "the files"
+        ],
+        "Action": [
+            "presses",
+            "start the merging"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 159,
+        "Text": "As an Applicant, I want to Submit Application(s) so that I can provide my information, plans and/or documents to initiate a transaction with the County.",
+        "Purpose": [
+            "The user presses the RUN button to start the merging of the files"
+        ],
+        "Trigger": [
+            "The user presses the RUN button"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "the RUN button",
+            "the files"
+        ],
+        "Action": [
+            "presses",
+            "start the merging"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 160,
+        "Text": "As an Applicant, I want to submit an application containing my information, plans, and documents to initiate a transaction with the County. The system shall confirm successful submission within a maximum of 5 seconds.",
+        "Purpose": [
+            "submit an application containing my information, plans, and documents to initiate a transaction with the County"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I"
+        ],
+        "Entity": [
+            "the Applicant",
+            "the system",
+            "the County"
+        ],
+        "Action": [
+            "submit",
+            "contain",
+            "initiate"
+        ],
+        "System_response": [
+            "confirm successful submission"
+        ]
+    },
+    {
+        "id": 161,
+        "Text": "As a Customer, I want to Create a Customer Portal User Account so that I can log on to the Customer Portal and perform transactions that first require user authentication.",
+        "Purpose": [
+            "submit an application containing my information, plans, and documents to initiate a transaction with the County"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I"
+        ],
+        "Entity": [
+            "the Applicant",
+            "the system",
+            "the County"
+        ],
+        "Action": [
+            "submit",
+            "contain",
+            "initiate"
+        ],
+        "System_response": [
+            "confirm successful submission"
+        ]
+    },
+    {
+        "id": 162,
+        "Text": "As an Applicant, I want to Request Pre-Application Assistance so that I can receive a response to a request for a meeting or information that is a result of the pre-application assistance.",
+        "Purpose": [
+            "I want to Request Pre-Application Assistance"
+        ],
+        "Trigger": [
+            "a request for a meeting or information"
+        ],
+        "Condition": [
+            "the request is a result of the pre-application assistance"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the Applicant"
+        ],
+        "Entity": [
+            "the Applicant",
+            "the pre-application assistance"
+        ],
+        "Action": [
+            "Request",
+            "receive a response"
+        ],
+        "System_response": [
+            "receive a response to a request"
+        ]
+    },
+    {
+        "id": 163,
+        "Text": "As a Prospective Applicant, I want to Research Requirements and Select a Service so that I can find the relevant service and/or application type to initiate via the online portal.",
+        "Purpose": [
+            "I want to Research Requirements and Select a Service"
+        ],
+        "Trigger": [
+            "I want to Research Requirements and Select a Service"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "the prospective applicant"
+        ],
+        "Entity": [
+            "Requirements",
+            "Service",
+            "online portal"
+        ],
+        "Action": [
+            "Research",
+            "Select"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 164,
+        "Text": "As a Public User, I want to Search for Information so that I can obtain publicly available information concerning properties, County services, processes and other general information.",
+        "Purpose": [
+            "I want to Search for Information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "As a Public User"
+        ],
+        "Entity": [
+            "properties",
+            "County services",
+            "processes",
+            "information"
+        ],
+        "Action": [
+            "Search"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 165,
+        "Text": "As an Applicant, I want to Submit Supporting Documentation so that I can satisfy documentation requirements for my application.",
+        "Purpose": [
+            "I want to satisfy documentation requirements"
+        ],
+        "Trigger": [
+            "I want to submit supporting documentation"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "the Applicant"
+        ],
+        "Entity": [
+            "the application",
+            "the documentation"
+        ],
+        "Action": [
+            "Submit Supporting Documentation"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 166,
+        "Text": "As an Applicant, I want to Pay Fee(s) so that I can satisfy outstanding charge(s) associated with the service(s) requested or received from the County.",
+        "Purpose": [
+            "I want to satisfy documentation requirements"
+        ],
+        "Trigger": [
+            "I want to submit supporting documentation"
+        ],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "the Applicant"
+        ],
+        "Entity": [
+            "the application",
+            "the documentation"
+        ],
+        "Action": [
+            "Submit Supporting Documentation"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 167,
+        "Text": "As an Applicant, I want to Check the Status of a transaction(s) so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.",
+        "Purpose": [
+            "I want to Check the Status of a transaction(s)"
+        ],
+        "Trigger": [
+            "I want to Check the Status of a transaction(s)"
+        ],
+        "Condition": [
+            "so that I can understand where the provisioning of my service is in the process"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "the Applicant"
+        ],
+        "Entity": [
+            "transaction(s)",
+            "service",
+            "service levels",
+            "fees",
+            "plan review",
+            "permit",
+            "inspection results"
+        ],
+        "Action": [
+            "Check the Status"
+        ],
+        "System_response": [
+            "understand where the provisioning of my service is in the process"
+        ]
+    },
+    {
+        "id": 168,
+        "Text": "As an Applicant, I want to Modify my Application so that I can successfully change information on an application.",
+        "Purpose": [
+            "I want to Check the Status of a transaction(s)"
+        ],
+        "Trigger": [
+            "I want to Check the Status of a transaction(s)"
+        ],
+        "Condition": [
+            "so that I can understand where the provisioning of my service is in the process"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "the Applicant"
+        ],
+        "Entity": [
+            "transaction(s)",
+            "service",
+            "service levels",
+            "fees",
+            "plan review",
+            "permit",
+            "inspection results"
+        ],
+        "Action": [
+            "Check the Status"
+        ],
+        "System_response": [
+            "understand where the provisioning of my service is in the process"
+        ]
+    },
+    {
+        "id": 169,
+        "Text": "As a Staff member, I want to Perform a Completeness Review so that I can validate when an application is complete and eligible for further technical review.",
+        "Purpose": [
+            "Perform a Completeness Review"
+        ],
+        "Trigger": [
+            "when an application is complete"
+        ],
+        "Condition": [
+            "an application is complete"
+        ],
+        "Precondition": [
+            "an application is complete"
+        ],
+        "Main_actor": [
+            "I want to Perform a Completeness Review"
+        ],
+        "Entity": [
+            "Staff member",
+            "application"
+        ],
+        "Action": [
+            "Perform a Completeness Review"
+        ],
+        "System_response": [
+            "validate when an application is complete"
+        ]
+    },
+    {
+        "id": 170,
+        "Text": "As a Staff member, I want to Record an Internal Note so that I can share information with other Staff collaborating on the record.",
+        "Purpose": [
+            "Record an Internal Note"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "Staff member"
+        ],
+        "Entity": [
+            "Internal Note",
+            "Staff",
+            "record"
+        ],
+        "Action": [
+            "Record"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 171,
+        "Text": "As a Staff member (or System), I want to Assign an Application for Detailed Review so that the application can be reviewed for compliance and subsequently approved or denied",
+        "Purpose": [
+            "Assign an Application for Detailed Review"
+        ],
+        "Trigger": [
+            "I want to"
+        ],
+        "Condition": [
+            "so that the application can be reviewed for compliance and subsequently approved or denied"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "As a Staff member (or System)"
+        ],
+        "Entity": [
+            "Application",
+            "Staff member",
+            "System"
+        ],
+        "Action": [
+            "Assign"
+        ],
+        "System_response": [
+            "Assign an Application for Detailed Review"
+        ]
+    },
+    {
+        "id": 172,
+        "Text": "The user selects the document he wants to split from a directory. When the file is imported, some information about the file is displayed (such as pages number, pdf version\u2026).",
+        "Purpose": [
+            "Assign an Application for Detailed Review"
+        ],
+        "Trigger": [
+            "I want to"
+        ],
+        "Condition": [
+            "so that the application can be reviewed for compliance and subsequently approved or denied"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "As a Staff member (or System)"
+        ],
+        "Entity": [
+            "Application",
+            "Staff member",
+            "System"
+        ],
+        "Action": [
+            "Assign"
+        ],
+        "System_response": [
+            "Assign an Application for Detailed Review"
+        ]
+    },
+    {
+        "id": 173,
+        "Text": "The user selects the destination folder for the output files (specific or same as source). Also, he can select whether he wants the output files to be compressed or not, and the pdf version of the generated documents.",
+        "Purpose": [
+            "Assign an Application for Detailed Review"
+        ],
+        "Trigger": [
+            "I want to"
+        ],
+        "Condition": [
+            "so that the application can be reviewed for compliance and subsequently approved or denied"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "As a Staff member (or System)"
+        ],
+        "Entity": [
+            "Application",
+            "Staff member",
+            "System"
+        ],
+        "Action": [
+            "Assign"
+        ],
+        "System_response": [
+            "Assign an Application for Detailed Review"
+        ]
+    },
+    {
+        "id": 174,
+        "Text": "Here, the user can define a pattern that will generate filenames for the output files.",
+        "Purpose": [
+            "Assign an Application for Detailed Review"
+        ],
+        "Trigger": [
+            "I want to"
+        ],
+        "Condition": [
+            "so that the application can be reviewed for compliance and subsequently approved or denied"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "As a Staff member (or System)"
+        ],
+        "Entity": [
+            "Application",
+            "Staff member",
+            "System"
+        ],
+        "Action": [
+            "Assign"
+        ],
+        "System_response": [
+            "Assign an Application for Detailed Review"
+        ]
+    },
+    {
+        "id": 175,
+        "Text": "The compression of the output files requires pdf version 1.5 or above.",
+        "Purpose": [
+            "The compression of the output files requires pdf version 1.5 or above"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "pdf version 1.5 or above",
+            "output files"
+        ],
+        "Action": [
+            "requires"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 176,
+        "Text": "The number of digits that can be used for the unique [FILENUMBER] prefix must be 10 or less.",
+        "Purpose": [
+            "The number of digits that can be used for the unique [FILENUMBER] prefix must be 10 or less"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "FILENUMBER"
+        ],
+        "Action": [
+            "must be"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 177,
+        "Text": "Users can merge many pdf documents or subsections of them together. In the same way, they can extract some sections of a pdf document into a single document.",
+        "Purpose": [
+            "Users can merge many pdf documents or subsections of them together"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Users"
+        ],
+        "Entity": [
+            "pdf documents",
+            "subsections",
+            "Users"
+        ],
+        "Action": [
+            "merge",
+            "extract"
+        ],
+        "System_response": [
+            "merge",
+            "extract"
+        ]
+    },
+    {
+        "id": 178,
+        "Text": "The GUI Merge/Extract panel enables the user to select more than one file to handle.",
+        "Purpose": [
+            "enable the user to select more than one file to handle"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "GUI Merge/Extract panel",
+            "the user",
+            "file"
+        ],
+        "Action": [
+            "enable",
+            "select",
+            "handle"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 179,
+        "Text": "Once the user selects the file/files they are automatically inserted into the selection table with some specific details. Now, the user can change the order and/or select the pages of the file/files that he wants to be included in the final document.",
+        "Purpose": [
+            "enable the user to select more than one file to handle"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "GUI Merge/Extract panel",
+            "the user",
+            "file"
+        ],
+        "Action": [
+            "enable",
+            "select",
+            "handle"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 180,
+        "Text": "The user can change the order of the files by using \"Move Up\" and \"Move Down\" buttons, or make the list be ordered by the value of a specific column by clicking the header of that column.",
+        "Purpose": [
+            "enable the user to select more than one file to handle"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "GUI Merge/Extract panel",
+            "the user",
+            "file"
+        ],
+        "Action": [
+            "enable",
+            "select",
+            "handle"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 181,
+        "Text": "The user has the ability to export the list of the selected files as an xml file that can be used as an input file for the console \"concat\" command, -l option.",
+        "Purpose": [
+            "enable the user to select more than one file to handle"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "GUI Merge/Extract panel",
+            "the user",
+            "file"
+        ],
+        "Action": [
+            "enable",
+            "select",
+            "handle"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 182,
+        "Text": "If the pdf documents contain forms, the user must add that to the merge options.",
+        "Purpose": [
+            "If the pdf documents contain forms, the user must add that to the merge options"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "pdf documents",
+            "forms",
+            "merge options"
+        ],
+        "Action": [
+            "contain",
+            "must add"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 183,
+        "Text": "Finally, the user selects the output file path or let the PDFsam create one by default to the same folder as one of the imported files. Also, he can select whether he wants the output file to be compressed or not, and the pdf version of the generated document.",
+        "Purpose": [
+            "If the pdf documents contain forms, the user must add that to the merge options"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "pdf documents",
+            "forms",
+            "merge options"
+        ],
+        "Action": [
+            "contain",
+            "must add"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 184,
+        "Text": "pages number in the page selection must be comprehended",
+        "Purpose": [
+            "If the pdf documents contain forms, the user must add that to the merge options"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "pdf documents",
+            "forms",
+            "merge options"
+        ],
+        "Action": [
+            "contain",
+            "must add"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 185,
+        "Text": "Users may want to combine documents together by taking pages alternatively from two existing pdf documents (e.g. for documents coming from one-sided scanners). The resulting document will be composed by pages taken alternatively from the two input documents.",
+        "Purpose": [
+            "Users may want to combine documents together"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Users"
+        ],
+        "Entity": [
+            "documents",
+            "pdf documents",
+            "scanners"
+        ],
+        "Action": [
+            "combine",
+            "take pages"
+        ],
+        "System_response": [
+            "compose a resulting document"
+        ]
+    },
+    {
+        "id": 186,
+        "Text": "The user selects the two documents that he wants to mix from a directory. When the files are imported, some information about the file are displayed to the selection table (such as pages number, pdf version\u2026).",
+        "Purpose": [
+            "Users may want to combine documents together"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Users"
+        ],
+        "Entity": [
+            "documents",
+            "pdf documents",
+            "scanners"
+        ],
+        "Action": [
+            "combine",
+            "take pages"
+        ],
+        "System_response": [
+            "compose a resulting document"
+        ]
+    },
+    {
+        "id": 187,
+        "Text": "The user can change the order of the two files by using \u201cMove Up\u201d and \u201cMove Down\u201d buttons, or make the list be ordered by the value of a specific column by clicking the header of that column.",
+        "Purpose": [
+            "Users may want to combine documents together"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "Users"
+        ],
+        "Entity": [
+            "documents",
+            "pdf documents",
+            "scanners"
+        ],
+        "Action": [
+            "combine",
+            "take pages"
+        ],
+        "System_response": [
+            "compose a resulting document"
+        ]
+    },
+    {
+        "id": 188,
+        "Text": "As a Staff member, I want to Manage Approved Proffers so that I can ensure compliance with and satisfaction of the proffer in the future.",
+        "Purpose": [
+            "Manage Approved Proffers"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "Staff member"
+        ],
+        "Entity": [
+            "Approved Proffers"
+        ],
+        "Action": [
+            "Manage"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 189,
+        "Text": "As a Staff member, I want to Manage Ordinances so that I can maintain accurate ordinance information in the System.",
+        "Purpose": [
+            "Manage Ordinances"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "Staff member"
+        ],
+        "Entity": [
+            "Ordinances",
+            "System"
+        ],
+        "Action": [
+            "Manage"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 190,
+        "Text": "As a staff member, I want to denote an application with a Final Action status (Approved, Approved with Conditions, Denied, etc.)",
+        "Purpose": [
+            "Manage Ordinances"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "Staff member"
+        ],
+        "Entity": [
+            "Ordinances",
+            "System"
+        ],
+        "Action": [
+            "Manage"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 191,
+        "Text": "Electronically incorporate the following data expressed according to the specified standard(s).",
+        "Purpose": [
+            "Manage Ordinances"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "Staff member"
+        ],
+        "Entity": [
+            "Ordinances",
+            "System"
+        ],
+        "Action": [
+            "Manage"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 192,
+        "Text": "Extract and allow for individual display each additional section or sections (and the accompanying document header information) that were included in a transition of care or referral summary received and formatted in accordance with the standard adopted at \u00a7 170.205(a)(3).",
+        "Purpose": [
+            "Manage Ordinances"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "I",
+            "Staff member"
+        ],
+        "Entity": [
+            "Ordinances",
+            "System"
+        ],
+        "Action": [
+            "Manage"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 193,
+        "Text": "(2) create and transmit transition of care or referral summaries.",
+        "Purpose": [
+            "create and transmit transition of care or referral summaries"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The healthcare provider"
+        ],
+        "Entity": [
+            "transition of care or referral summaries",
+            "the healthcare provider"
+        ],
+        "Action": [
+            "create",
+            "transmit"
+        ],
+        "System_response": [
+            "create and transmit transition of care or referral summaries"
+        ]
+    },
+    {
+        "id": 194,
+        "Text": "Enable a user to electronically create a transition of care or referral summary formatted according to the standard adopted at \u00a7 170.205(a)(3) that includes, at a minimum, the Common MU Data Set.",
+        "Purpose": [
+            "Enable a user to electronically create a transition of care or referral summary"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "the Common MU Data Set"
+        ],
+        "Action": [
+            "electronically create"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 195,
+        "Text": "Enable a user to electronically transmit the transition of care or referral summary created in paragraph (b)(2)(i) of this section in accordance with Electronic prescribing.",
+        "Purpose": [
+            "Enable a user to electronically transmit the transition of care or referral summary"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "the transition of care or referral summary",
+            "Electronic prescribing"
+        ],
+        "Action": [
+            "to electronically transmit"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 196,
+        "Text": "Enable a user to electronically create prescriptions and prescription-related information for electronic transmission in accordance with: (i) The standard specified in \u00a7 170.205(b)(2); and (ii) At a minimum, the version of the standard specified in \u00a7 170.207(d)(2).",
+        "Purpose": [
+            "Enable a user to electronically create prescriptions and prescription-related information for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "prescriptions",
+            "prescription-related information"
+        ],
+        "Action": [
+            "electronically create"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 197,
+        "Text": "Enable a user to electronically reconcile the data that represent a patient's active medication, problem, and medication allergy list as follows.",
+        "Purpose": [
+            "Enable a user to electronically reconcile"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "patient's active medication",
+            "problem",
+            "medication allergy list"
+        ],
+        "Action": [
+            "electronically reconcile"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 198,
+        "Text": "(i) Electronically and simultaneously display (i.e., in a single view) the data from at least two list sources in a manner that allows a user to view the data and their attributes, which must include, at a minimum, the source and last modification date.",
+        "Purpose": [
+            "Electronically and simultaneously display data from at least two list sources"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "user",
+            "data",
+            "list sources"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display data"
+        ]
+    },
+    {
+        "id": 199,
+        "Text": "(ii) Enable a user to create a single reconciled list of medications, medication allergies, or problems.",
+        "Purpose": [
+            "Enable a user to create a single reconciled list"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "medications",
+            "medication allergies",
+            "problems"
+        ],
+        "Action": [
+            "create",
+            "reconciled list"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 200,
+        "Text": "(iii) Enable a user to review and validate the accuracy of a final set of data and, upon a user's confirmation, automatically update the list.",
+        "Purpose": [
+            "Enable a user to review and validate the accuracy of a final set of data"
+        ],
+        "Trigger": [
+            "upon a user's confirmation"
+        ],
+        "Condition": [
+            "a final set of data"
+        ],
+        "Precondition": [
+            "a final set of data"
+        ],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "a final set of data",
+            "the list"
+        ],
+        "Action": [
+            "review",
+            "validate",
+            "update"
+        ],
+        "System_response": [
+            "update the list"
+        ]
+    },
+    {
+        "id": 201,
+        "Text": "(5) Incorporate laboratory tests and values or results.",
+        "Purpose": [
+            "Enable a user to review and validate the accuracy of a final set of data"
+        ],
+        "Trigger": [
+            "upon a user's confirmation"
+        ],
+        "Condition": [
+            "a final set of data"
+        ],
+        "Precondition": [
+            "a final set of data"
+        ],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "a final set of data",
+            "the list"
+        ],
+        "Action": [
+            "review",
+            "validate",
+            "update"
+        ],
+        "System_response": [
+            "update the list"
+        ]
+    },
+    {
+        "id": 202,
+        "Text": "(i) Receive results.",
+        "Purpose": [
+            "Enable a user to review and validate the accuracy of a final set of data"
+        ],
+        "Trigger": [
+            "upon a user's confirmation"
+        ],
+        "Condition": [
+            "a final set of data"
+        ],
+        "Precondition": [
+            "a final set of data"
+        ],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "a final set of data",
+            "the list"
+        ],
+        "Action": [
+            "review",
+            "validate",
+            "update"
+        ],
+        "System_response": [
+            "update the list"
+        ]
+    },
+    {
+        "id": 203,
+        "Text": "( 1 ) Electronically receive and incorporate clinical laboratory tests and values or results in accordance with the standard specified in \u00a7 170.205(j) and, at a minimum, the version of the standard specified in \u00a7 170.207(c)(2).",
+        "Purpose": [
+            "Enable a user to review and validate the accuracy of a final set of data"
+        ],
+        "Trigger": [
+            "upon a user's confirmation"
+        ],
+        "Condition": [
+            "a final set of data"
+        ],
+        "Precondition": [
+            "a final set of data"
+        ],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "a final set of data",
+            "the list"
+        ],
+        "Action": [
+            "review",
+            "validate",
+            "update"
+        ],
+        "System_response": [
+            "update the list"
+        ]
+    },
+    {
+        "id": 204,
+        "Text": "( 2 ) Electronically display the tests and values or results received in human readable format.",
+        "Purpose": [
+            "Electronically display the tests and values or results received"
+        ],
+        "Trigger": [
+            "electronically"
+        ],
+        "Condition": [
+            "human readable format"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "tests",
+            "values",
+            "results",
+            "human readable format"
+        ],
+        "Action": [
+            "display"
+        ],
+        "System_response": [
+            "display the tests and values or results received"
+        ]
+    },
+    {
+        "id": 205,
+        "Text": "Electronically receive clinical laboratory tests and values or results in a structured format and electronically display such tests and values or results in human readable format.",
+        "Purpose": [
+            "Electronically receive clinical laboratory tests and values or results in a structured format"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "The laboratory"
+        ],
+        "Entity": [
+            "clinical laboratory tests",
+            "values or results",
+            "structured format",
+            "human readable format"
+        ],
+        "Action": [
+            "receive",
+            "display"
+        ],
+        "System_response": [
+            "electronically display"
+        ]
+    },
+    {
+        "id": 206,
+        "Text": "(iii) Electronically attribute, associate, or link a laboratory test and value or result with a laboratory order or patient record.",
+        "Purpose": [
+            "electronically attribute",
+            "associate",
+            "link a laboratory test and value or result with a laboratory order or patient record"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "laboratory test",
+            "value or result",
+            "laboratory order",
+            "patient record"
+        ],
+        "Action": [
+            "attribute",
+            "associate",
+            "link"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 207,
+        "Text": "EHR technology must be able to electronically create laboratory test reports for electronic transmission in accordance with the standard specified in \u00a7 170.205(j) and with laboratory tests expressed in accordance with, at a minimum, the version of the standard specified in \u00a7 170.207(c)(2).",
+        "Purpose": [
+            "electronically create laboratory test reports for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "laboratory test reports",
+            "standard",
+            "\u00a7 170.205(j)",
+            "\u00a7 170.207(c)(2)"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": [
+            "electronically create laboratory test reports for electronic transmission"
+        ]
+    },
+    {
+        "id": 208,
+        "Text": "Enable a user to electronically create a set of export summaries for all patients in EHR technology formatted according to the standard adopted at \u00a7 170.205(a)(3) that represents the most current clinical information about each patient and includes, at a minimum, the Common MU Data Set and the following data expressed, where applicable, according to the specified standard(s):",
+        "Purpose": [
+            "electronically create laboratory test reports for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "laboratory test reports",
+            "standard",
+            "\u00a7 170.205(j)",
+            "\u00a7 170.207(c)(2)"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": [
+            "electronically create laboratory test reports for electronic transmission"
+        ]
+    },
+    {
+        "id": 209,
+        "Text": "For each and every CQM for which the EHR technology is presented for certification, EHR technology must be able to electronically record all of the data identified in the standard specified at \u00a7 170.204(c) that would be necessary to calculate each CQM.",
+        "Purpose": [
+            "electronically create laboratory test reports for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "laboratory test reports",
+            "standard",
+            "\u00a7 170.205(j)",
+            "\u00a7 170.207(c)(2)"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": [
+            "electronically create laboratory test reports for electronic transmission"
+        ]
+    },
+    {
+        "id": 210,
+        "Text": "Data required for CQM exclusions or exceptions must be codified entries, which may include specific terms as defined by each CQM, or may include codified expressions of 'patient reason\", \"system reason\" or \"medical reason.\"",
+        "Purpose": [
+            "electronically create laboratory test reports for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "laboratory test reports",
+            "standard",
+            "\u00a7 170.205(j)",
+            "\u00a7 170.207(c)(2)"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": [
+            "electronically create laboratory test reports for electronic transmission"
+        ]
+    },
+    {
+        "id": 211,
+        "Text": "EHR technology must be able to electronically export a data file formatted in accordance with the standards specified at \u00a7 170.205(h) that includes all of the data captured for each and every CQM to which EHR technology was certified under paragraph (c)(1)(i) of this section.",
+        "Purpose": [
+            "electronically create laboratory test reports for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "laboratory test reports",
+            "standard",
+            "\u00a7 170.205(j)",
+            "\u00a7 170.207(c)(2)"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": [
+            "electronically create laboratory test reports for electronic transmission"
+        ]
+    },
+    {
+        "id": 212,
+        "Text": "EHR technology must be able to electronically import a data file formatted in accordance with the standard specified at \u00a7 170.205(h) and use such data to perform the capability specified in paragraph (c)(2)(ii) of this section.",
+        "Purpose": [
+            "electronically create laboratory test reports for electronic transmission"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "laboratory test reports",
+            "standard",
+            "\u00a7 170.205(j)",
+            "\u00a7 170.207(c)(2)"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": [
+            "electronically create laboratory test reports for electronic transmission"
+        ]
+    },
+    {
+        "id": 213,
+        "Text": "EHR technology must be able to electronically calculate each and every clinical quality measure for which it is presented for certification.",
+        "Purpose": [
+            "EHR technology must be able to electronically calculate each and every clinical quality measure for which it is presented for certification"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "EHR technology",
+            "clinical quality measure",
+            "certification"
+        ],
+        "Action": [
+            "must be able to electronically calculate"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 214,
+        "Text": "Enable a user to electronically create a data file for transmission of clinical quality measurement data:",
+        "Purpose": [
+            "Enable a user to electronically create a data file for transmission of clinical quality measurement data"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "a user",
+            "a data file",
+            "clinical quality measurement data"
+        ],
+        "Action": [
+            "electronically create"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 215,
+        "Text": "(i) Verify against a unique identifier(s) (e.g.  username or number) that a person seeking access to electronic health information is the one claimed;",
+        "Purpose": [
+            "Verify against a unique identifier(s) that a person seeking access to electronic health information is the one claimed"
+        ],
+        "Trigger": [
+            "a person seeking access to electronic health information"
+        ],
+        "Condition": [
+            "unique identifier(s)"
+        ],
+        "Precondition": [
+            "electronic health information"
+        ],
+        "Main_actor": [
+            "a person"
+        ],
+        "Entity": [
+            "a person",
+            "unique identifier(s)",
+            "electronic health information"
+        ],
+        "Action": [
+            "Verify"
+        ],
+        "System_response": [
+            "is the one claimed"
+        ]
+    },
+    {
+        "id": 216,
+        "Text": "(ii) Establish the type of access to electronic health information a user is permitted based on the unique identifier(s) provided in paragraph (d)(1)(i) of this section, and the actions the user is permitted to perform with the EHR technology.",
+        "Purpose": [
+            "Verify against a unique identifier(s) that a person seeking access to electronic health information is the one claimed"
+        ],
+        "Trigger": [
+            "a person seeking access to electronic health information"
+        ],
+        "Condition": [
+            "unique identifier(s)"
+        ],
+        "Precondition": [
+            "electronic health information"
+        ],
+        "Main_actor": [
+            "a person"
+        ],
+        "Entity": [
+            "a person",
+            "unique identifier(s)",
+            "electronic health information"
+        ],
+        "Action": [
+            "Verify"
+        ],
+        "System_response": [
+            "is the one claimed"
+        ]
+    },
+    {
+        "id": 217,
+        "Text": "(A) Record actions related to electronic health information in accordance with the standard specified in \u00a7 170.210(e)(1);",
+        "Purpose": [
+            "Record actions related to electronic health information"
+        ],
+        "Trigger": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(1)"
+        ],
+        "Condition": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(1)"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "electronic health information",
+            "standard specified in \u00a7 170.210(e)(1)"
+        ],
+        "Action": [
+            "Record actions"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 218,
+        "Text": "(C) Record the encryption status (enabled or disabled) of electronic health information locally stored on end-user devices by EHR technology in accordance with the standard specified in \u00a7 170.210(e)(3) unless the EHR technology prevents electronic health information from being locally stored on end-user devices (see 170.314(d)(7) of this section).",
+        "Purpose": [
+            "Record the encryption status"
+        ],
+        "Trigger": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(3)"
+        ],
+        "Condition": [
+            "unless the EHR technology prevents electronic health information from being locally stored on end-user devices"
+        ],
+        "Precondition": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(3)"
+        ],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "end-user devices",
+            "electronic health information"
+        ],
+        "Action": [
+            "Record",
+            "encrypt"
+        ],
+        "System_response": [
+            "enabled or disabled"
+        ]
+    },
+    {
+        "id": 219,
+        "Text": "For each capability specified in paragraphs (d)(2)(i)(A) through (C) of this section that EHR technology permits to be disabled, the ability to do so must be restricted to a limited set of identified users.",
+        "Purpose": [
+            "Record the encryption status"
+        ],
+        "Trigger": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(3)"
+        ],
+        "Condition": [
+            "unless the EHR technology prevents electronic health information from being locally stored on end-user devices"
+        ],
+        "Precondition": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(3)"
+        ],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "end-user devices",
+            "electronic health information"
+        ],
+        "Action": [
+            "Record",
+            "encrypt"
+        ],
+        "System_response": [
+            "enabled or disabled"
+        ]
+    },
+    {
+        "id": 220,
+        "Text": "Actions and statuses recorded in accordance with paragraph (d)(2)(i) of this section must not be capable of being changed, overwritten, or deleted by the EHR technology.",
+        "Purpose": [
+            "Record the encryption status"
+        ],
+        "Trigger": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(3)"
+        ],
+        "Condition": [
+            "unless the EHR technology prevents electronic health information from being locally stored on end-user devices"
+        ],
+        "Precondition": [
+            "in accordance with the standard specified in \u00a7 170.210(e)(3)"
+        ],
+        "Main_actor": [
+            "EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "end-user devices",
+            "electronic health information"
+        ],
+        "Action": [
+            "Record",
+            "encrypt"
+        ],
+        "System_response": [
+            "enabled or disabled"
+        ]
+    },
+    {
+        "id": 221,
+        "Text": "EHR technology must be able to detect whether the audit log has been altered.",
+        "Purpose": [
+            "EHR technology must be able to detect whether the audit log has been altered"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "EHR technology",
+            "audit log"
+        ],
+        "Action": [
+            "detect"
+        ],
+        "System_response": [
+            "detect whether the audit log has been altered"
+        ]
+    },
+    {
+        "id": 222,
+        "Text": "Enable a user to electronically select the record affected by a patient's request for amendment and perform the capabilities specified in paragraphs (d)(4)(i) or (ii) of this section.",
+        "Purpose": [
+            "EHR technology must be able to detect whether the audit log has been altered"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "EHR technology",
+            "audit log"
+        ],
+        "Action": [
+            "detect"
+        ],
+        "System_response": [
+            "detect whether the audit log has been altered"
+        ]
+    },
+    {
+        "id": 223,
+        "Text": "For an accepted amendment, append the amendment to the affected record or include a link that indicates the amendment's location.",
+        "Purpose": [
+            "EHR technology must be able to detect whether the audit log has been altered"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "EHR technology",
+            "audit log"
+        ],
+        "Action": [
+            "detect"
+        ],
+        "System_response": [
+            "detect whether the audit log has been altered"
+        ]
+    },
+    {
+        "id": 224,
+        "Text": "For a denied amendment, at a minimum, append the request and denial of the request to the affected record or include a link that indicates this information's location.",
+        "Purpose": [
+            "append the request and denial of the request to the affected record or include a link that indicates this information's location"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "the system"
+        ],
+        "Entity": [
+            "the affected record",
+            "the request",
+            "the denial"
+        ],
+        "Action": [
+            "append",
+            "include a link"
+        ],
+        "System_response": [
+            "append the request and denial of the request to the affected record or include a link that indicates this information's location"
+        ]
+    },
+    {
+        "id": 225,
+        "Text": "Prevent a user from gaining further access to an electronic session after a predetermined time of inactivity.",
+        "Purpose": [
+            "Prevent a user from gaining further access to an electronic session"
+        ],
+        "Trigger": [
+            "after a predetermined time of inactivity"
+        ],
+        "Condition": [
+            "a predetermined time of inactivity"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "an electronic session"
+        ],
+        "Action": [
+            "gain further access"
+        ],
+        "System_response": [
+            "prevent further access"
+        ]
+    },
+    {
+        "id": 226,
+        "Text": "Permit an identified set of users to access electronic health information during an emergency.",
+        "Purpose": [
+            "Permit an identified set of users to access electronic health information during an emergency"
+        ],
+        "Trigger": [
+            "during an emergency"
+        ],
+        "Condition": [
+            "during an emergency"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "identified set of users"
+        ],
+        "Entity": [
+            "users",
+            "electronic health information"
+        ],
+        "Action": [
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 227,
+        "Text": "(i) EHR technology, that is designed to locally store electronic health information on end-user devices, must encrypt the electronic health information stored on such devices after use of EHR technology on those devices stops.",
+        "Purpose": [
+            "Permit an identified set of users to access electronic health information during an emergency"
+        ],
+        "Trigger": [
+            "during an emergency"
+        ],
+        "Condition": [
+            "during an emergency"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "identified set of users"
+        ],
+        "Entity": [
+            "users",
+            "electronic health information"
+        ],
+        "Action": [
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 228,
+        "Text": "(A) Electronic health information that is stored must be encrypted in accordance with the standard specified in \u00a7 170.210(a)(1).",
+        "Purpose": [
+            "Permit an identified set of users to access electronic health information during an emergency"
+        ],
+        "Trigger": [
+            "during an emergency"
+        ],
+        "Condition": [
+            "during an emergency"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "identified set of users"
+        ],
+        "Entity": [
+            "users",
+            "electronic health information"
+        ],
+        "Action": [
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 229,
+        "Text": "EHR technology must be set by default to perform this capability and, unless this configuration cannot be disabled by any user, the ability to change the configuration must be restricted to a limited set of identified users.",
+        "Purpose": [
+            "Permit an identified set of users to access electronic health information during an emergency"
+        ],
+        "Trigger": [
+            "during an emergency"
+        ],
+        "Condition": [
+            "during an emergency"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "identified set of users"
+        ],
+        "Entity": [
+            "users",
+            "electronic health information"
+        ],
+        "Action": [
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 230,
+        "Text": "(ii) EHR technology is designed to prevent electronic health information from being locally stored on end-user devices after use of EHR technology on those devices stops.",
+        "Purpose": [
+            "prevent electronic health information from being locally stored on end-user devices"
+        ],
+        "Trigger": [
+            "use of EHR technology on those devices stops"
+        ],
+        "Condition": [
+            "use of EHR technology on those devices stops"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "end-user"
+        ],
+        "Entity": [
+            "EHR technology",
+            "electronic health information",
+            "end-user devices"
+        ],
+        "Action": [
+            "is designed"
+        ],
+        "System_response": [
+            "is designed"
+        ]
+    },
+    {
+        "id": 231,
+        "Text": "(i) Create a message digest in accordance with the standard specified in \u00a7 170.210(c).",
+        "Purpose": [
+            "prevent electronic health information from being locally stored on end-user devices"
+        ],
+        "Trigger": [
+            "use of EHR technology on those devices stops"
+        ],
+        "Condition": [
+            "use of EHR technology on those devices stops"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "end-user"
+        ],
+        "Entity": [
+            "EHR technology",
+            "electronic health information",
+            "end-user devices"
+        ],
+        "Action": [
+            "is designed"
+        ],
+        "System_response": [
+            "is designed"
+        ]
+    },
+    {
+        "id": 232,
+        "Text": "(ii) Verify in accordance with the standard specified in \u00a7 170.210(c) upon receipt of electronically exchanged health information that such information has not been altered.",
+        "Purpose": [
+            "Verify in accordance with the standard specified in \u00a7 170.210(c)"
+        ],
+        "Trigger": [
+            "upon receipt of electronically exchanged health information"
+        ],
+        "Condition": [
+            "such information has not been altered"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "The recipient of the health information"
+        ],
+        "Entity": [
+            "health information",
+            "the recipient",
+            "the sender"
+        ],
+        "Action": [
+            "Verify"
+        ],
+        "System_response": [
+            "has not been altered"
+        ]
+    },
+    {
+        "id": 233,
+        "Text": "Record disclosures made for treatment, payment, and health care operations in accordance with the standard specified in \u00a7 170.210(d).",
+        "Purpose": [
+            "Record disclosures made for treatment, payment, and health care operations"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "patient",
+            "healthcare provider",
+            "insurance company"
+        ],
+        "Action": [
+            "record",
+            "disclose"
+        ],
+        "System_response": [
+            "record disclosures"
+        ]
+    },
+    {
+        "id": 234,
+        "Text": "Electronically download transition of care or referral summaries that were created as a result of a transition of care (pursuant to the capability expressed in the certification criterion adopted at paragraph (b)(2) of this section).",
+        "Purpose": [
+            "download transition of care or referral summaries"
+        ],
+        "Trigger": [
+            "as a result of a transition of care"
+        ],
+        "Condition": [
+            "pursuant to the capability expressed in the certification criterion adopted at paragraph (b)(2) of this section"
+        ],
+        "Precondition": [
+            "transition of care or referral summaries were created"
+        ],
+        "Main_actor": [
+            "the system"
+        ],
+        "Entity": [
+            "transition of care or referral summaries",
+            "the capability",
+            "the certification criterion"
+        ],
+        "Action": [
+            "electronically download"
+        ],
+        "System_response": [
+            "electronically download transition of care or referral summaries"
+        ]
+    },
+    {
+        "id": 235,
+        "Text": "Electronically transmit transition of care or referral summaries (as a result of a transition of care or referral) selected by the patient (or their authorized representative) in accordance with the standard specified in \u00a7 170.202(a).",
+        "Purpose": [
+            "Electronically transmit transition of care or referral summaries"
+        ],
+        "Trigger": [
+            "selected by the patient (or their authorized representative)"
+        ],
+        "Condition": [
+            "in accordance with the standard specified in \u00a7 170.202(a)"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the patient (or their authorized representative)"
+        ],
+        "Entity": [
+            "patient",
+            "authorized representative",
+            "standard specified in \u00a7 170.202(a)"
+        ],
+        "Action": [
+            "transmit"
+        ],
+        "System_response": [
+            "electronically transmit"
+        ]
+    },
+    {
+        "id": 236,
+        "Text": "(A) When electronic health information is viewed, downloaded, or transmitted to a third-party using the capabilities included in paragraphs (e)(1)(i)(A) through (C) of this section, the following information must be recorded and made accessible to the patient:",
+        "Purpose": [
+            "Electronically transmit transition of care or referral summaries"
+        ],
+        "Trigger": [
+            "selected by the patient (or their authorized representative)"
+        ],
+        "Condition": [
+            "in accordance with the standard specified in \u00a7 170.202(a)"
+        ],
+        "Precondition": [],
+        "Main_actor": [
+            "the patient (or their authorized representative)"
+        ],
+        "Entity": [
+            "patient",
+            "authorized representative",
+            "standard specified in \u00a7 170.202(a)"
+        ],
+        "Action": [
+            "transmit"
+        ],
+        "System_response": [
+            "electronically transmit"
+        ]
+    },
+    {
+        "id": 237,
+        "Text": "(B) EHR technology presented for certification may demonstrate compliance with paragraph (e)(1)(ii)(A) of this section if it is also certified to the certification criterion adopted at \u00a7 170.314(d)(2) and the information required to be recorded in paragraph (e)(1)(ii)(A) is accessible by the patient.",
+        "Purpose": [
+            "compliance with paragraph (e)(1)(ii)(A) of this section"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "if it is also certified to the certification criterion adopted at \u00a7 170.314(d)(2)"
+        ],
+        "Precondition": [
+            "the information required to be recorded in paragraph (e)(1)(ii)(A) is accessible by the patient"
+        ],
+        "Main_actor": [
+            "the EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "patient"
+        ],
+        "Action": [
+            "presented for certification"
+        ],
+        "System_response": [
+            "may demonstrate compliance"
+        ]
+    },
+    {
+        "id": 238,
+        "Text": "Enable a user to create a clinical summary for a patient in human readable format and formatted according to the standards adopted at \u00a7 170.205(a)(3).",
+        "Purpose": [
+            "compliance with paragraph (e)(1)(ii)(A) of this section"
+        ],
+        "Trigger": [],
+        "Condition": [
+            "if it is also certified to the certification criterion adopted at \u00a7 170.314(d)(2)"
+        ],
+        "Precondition": [
+            "the information required to be recorded in paragraph (e)(1)(ii)(A) is accessible by the patient"
+        ],
+        "Main_actor": [
+            "the EHR technology"
+        ],
+        "Entity": [
+            "EHR technology",
+            "patient"
+        ],
+        "Action": [
+            "presented for certification"
+        ],
+        "System_response": [
+            "may demonstrate compliance"
+        ]
+    },
+    {
+        "id": 239,
+        "Text": "Enable a user to customize the data to be included in the clinical summary.",
+        "Purpose": [
+            "Enable a user to customize the data to be included in the clinical summary"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "the user",
+            "the clinical summary",
+            "the data"
+        ],
+        "Action": [
+            "to customize"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 240,
+        "Text": "EHR technology must permit a user to select, at a minimum, the following data when creating a clinical summary:",
+        "Purpose": [
+            "Enable a user to customize the data to be included in the clinical summary"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "the user",
+            "the clinical summary",
+            "the data"
+        ],
+        "Action": [
+            "to customize"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 241,
+        "Text": "Enable a user to electronically send messages to, and receive messages from, a patient in a manner that ensures that Both the patient (or authorized representative) and EHR technology user are authenticated",
+        "Purpose": [
+            "Enable a user to customize the data to be included in the clinical summary"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "the user",
+            "the clinical summary",
+            "the data"
+        ],
+        "Action": [
+            "to customize"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 242,
+        "Text": "(ii) The message content is encrypted and integrity-protected in accordance with the standard for encryption and hashing algorithms specified at \u00a7 170.210(f).",
+        "Purpose": [
+            "The message content is encrypted and integrity-protected"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "message content",
+            "standard for encryption and hashing algorithms"
+        ],
+        "Action": [
+            "is encrypted",
+            "is integrity-protected"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 243,
+        "Text": "Enable a user to electronically record, change, and access immunization information.",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access immunization information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "immunization information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 244,
+        "Text": "EHR technology must be able to electronically create immunization information for electronic transmission in accordance with, At a minimum, the version of the standard specified in \u00a7 170.207(e)(2).",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access immunization information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "immunization information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 245,
+        "Text": "EHR technology must be able to electronically create syndrome-based public health surveillance information for electronic transmission in accordance with Ambulatory setting only.",
+        "Purpose": [
+            "electronically create syndrome-based public health surveillance information"
+        ],
+        "Trigger": [
+            "in accordance with Ambulatory setting only"
+        ],
+        "Condition": [
+            "in accordance with Ambulatory setting only"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "EHR technology",
+            "Ambulatory setting"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 246,
+        "Text": "EHR technology must be able to electronically create reportable laboratory tests and values or results for electronic transmission in accordance with The standard (and applicable implementation specifications) specified in \u00a7 170.205(g)",
+        "Purpose": [
+            "electronically create syndrome-based public health surveillance information"
+        ],
+        "Trigger": [
+            "in accordance with Ambulatory setting only"
+        ],
+        "Condition": [
+            "in accordance with Ambulatory setting only"
+        ],
+        "Precondition": [],
+        "Main_actor": [],
+        "Entity": [
+            "EHR technology",
+            "Ambulatory setting"
+        ],
+        "Action": [
+            "must be able to"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 247,
+        "Text": "Enable a user to electronically record, change, and access cancer case information.",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 248,
+        "Text": "EHR technology must be able to electronically create cancer case information for electronic transmission in accordance with the standard (and applicable implementation specifications) specified in \u00a7 170.205(i);",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 249,
+        "Text": "For each meaningful use objective with a percentage-based measure, EHR technology must be able to create a report or file that enables a user to review the patients or actions that would make the patient or action eligible to be included in the measure's numerator.",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 250,
+        "Text": "The information in the report or file created must be of sufficient detail such that it enables a user to match those patients or actions to meet the measure's denominator limitations when necessary to generate an accurate percentage.",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 251,
+        "Text": "For each meaningful use objective with a percentage-based measure that is supported by a capability included in an EHR technology, electronically record the numerator and denominator and create a report including the numerator, denominator, and resulting percentage associated with each applicable meaningful use measure.",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 252,
+        "Text": "User-centered design processes must be applied to each capability an EHR technology includes that is specified in the following certification criteria: \u00a7 170.314(a)(1)  (2)  (6) through (8)  and (16) and (b)(3) and (4).",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    },
+    {
+        "id": 253,
+        "Text": "For each capability that an EHR technology includes and for which that capability's certification is sought, the use of a Quality Management System (QMS) in the development, testing, implementation and maintenance of that capability must be identified.",
+        "Purpose": [
+            "Enable a user to electronically record, change, and access cancer case information"
+        ],
+        "Trigger": [],
+        "Condition": [],
+        "Precondition": [],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "user",
+            "cancer case information"
+        ],
+        "Action": [
+            "record",
+            "change",
+            "access"
+        ],
+        "System_response": []
+    }
+]

@@ -1,0 +1,1537 @@
+[
+    {
+        "Text": "The product shall be available during normal business hours. As long as the user has access to the client PC the system will be available 99% of the time during the first six months of operation.",
+        "Purpose": [
+            "The product shall be available during normal business hours"
+        ],
+        "Condition": [
+            "As long as the user has access to the client PC",
+            "during the first six months of operation",
+            "to the client PC"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The product",
+            "the system",
+            "the user",
+            "the client PC"
+        ],
+        "System_response": [
+            "will be available",
+            "shall be available"
+        ],
+        "Action": [
+            "shall be available",
+            "will be available",
+            "has access"
+        ],
+        "Precondition": [
+            "during normal business hours",
+            "99% of the time",
+            "to the client PC"
+        ],
+        "Trigger": [
+            "As long as the user has access to the client PC",
+            "during the first six months of operation"
+        ],
+        "id": 0
+    },
+    {
+        "Text": "The system shall refresh the display every 60 seconds.",
+        "Purpose": [
+            "The system shall refresh the display every 60 seconds."
+        ],
+        "Condition": [
+            "every 60 seconds"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "the display"
+        ],
+        "System_response": [
+            "shall refresh the display"
+        ],
+        "Action": [
+            "shall refresh the display"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "every 60 seconds"
+        ],
+        "id": 1
+    },
+    {
+        "Text": "The application shall match the color of the schema set forth by Department of Homeland Security",
+        "Purpose": [
+            "match the color of the schema set forth by Department of Homeland Security"
+        ],
+        "Condition": [
+            "of the schema set forth by Department of Homeland Security"
+        ],
+        "Main_actor": [
+            "The application"
+        ],
+        "Entity": [
+            "The application",
+            "Department of Homeland Security",
+            "the color of the schema"
+        ],
+        "System_response": [
+            "shall match the color"
+        ],
+        "Action": [
+            "shall match the color"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 2
+    },
+    {
+        "Text": "If projected on a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30",
+        "Purpose": [
+            "90% of viewers must be able to read Event / Activity data"
+        ],
+        "Condition": [
+            "If projected on a 10x10 projection screen",
+            "from a viewing distance of 30",
+            "90% of viewers"
+        ],
+        "Main_actor": [
+            "90% of viewers"
+        ],
+        "Entity": [
+            "90% of viewers",
+            "10x10 projection screen",
+            "Event / Activity data"
+        ],
+        "System_response": [],
+        "Action": [
+            "must be able to read"
+        ],
+        "Precondition": [
+            "If projected on a 10x10 projection screen"
+        ],
+        "Trigger": [
+            "If projected on a 10x10 projection screen"
+        ],
+        "id": 3
+    },
+    {
+        "Text": "If projected the data must be understandable. On a 10x10 projection screen 90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100",
+        "Purpose": [
+            "the data must be understandable",
+            "90% of viewers must be able to determine that Events or Activities are occuring"
+        ],
+        "Condition": [
+            "If projected on a 10x10 projection screen",
+            "from a viewing distance of 100",
+            "in current time"
+        ],
+        "Main_actor": [
+            "90% of viewers"
+        ],
+        "Entity": [
+            "90% of viewers",
+            "10x10 projection screen",
+            "Events",
+            "Activities",
+            "data"
+        ],
+        "System_response": [],
+        "Action": [
+            "must be able to determine",
+            "must be understandable",
+            "are occuring"
+        ],
+        "Precondition": [
+            "If projected"
+        ],
+        "Trigger": [
+            "If projected"
+        ],
+        "id": 4
+    },
+    {
+        "Text": "The product shall respond fast to keep up-to-date data in the display.",
+        "Purpose": [
+            "to keep up-to-date data in the display"
+        ],
+        "Condition": [
+            "up-to-date",
+            "fast"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "up-to-date data",
+            "the display"
+        ],
+        "System_response": [
+            "shall respond fast"
+        ],
+        "Action": [
+            "shall respond fast",
+            "keep up-to-date"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 5
+    },
+    {
+        "Text": "The product shall refresh the display within 500 milliseconds for 99% of new data arrivals.",
+        "Purpose": [
+            "The product shall refresh the display within 500 milliseconds for 99% of new data arrivals."
+        ],
+        "Condition": [
+            "within 500 milliseconds",
+            "for 99% of new data arrivals"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "the display",
+            "The product",
+            "99% of new data arrivals"
+        ],
+        "System_response": [
+            "shall refresh the display"
+        ],
+        "Action": [
+            "shall refresh the display"
+        ],
+        "Precondition": [
+            "new data arrivals"
+        ],
+        "Trigger": [
+            "new data arrivals"
+        ],
+        "id": 6
+    },
+    {
+        "Text": "The system shall have a MDI form that allows for the viewing of the graph and the data table.",
+        "Purpose": [
+            "allows for the viewing of the graph and the data table"
+        ],
+        "Condition": [],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "a MDI form",
+            "the graph",
+            "the data table"
+        ],
+        "System_response": [
+            "shall have a MDI form"
+        ],
+        "Action": [
+            "shall have a MDI form",
+            "allows for the viewing"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 7
+    },
+    {
+        "Text": "The system shall display Events in a vertical table by time.",
+        "Purpose": [
+            "The system shall display Events in a vertical table by time."
+        ],
+        "Condition": [
+            "in a vertical table",
+            "by time"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "Events",
+            "a vertical table"
+        ],
+        "System_response": [
+            "shall display"
+        ],
+        "Action": [
+            "shall display"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 8
+    },
+    {
+        "Text": "The system shall display the Events in a graph by time.",
+        "Purpose": [
+            "The system shall display the Events in a graph by time."
+        ],
+        "Condition": [
+            "in a graph",
+            "by time"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The system",
+            "the Events",
+            "a graph"
+        ],
+        "System_response": [
+            "shall display"
+        ],
+        "Action": [
+            "shall display"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 9
+    },
+    {
+        "Text": "All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.",
+        "Purpose": [
+            "All business rules shall be in compliance to the guidelines of Regulation E and Regulation Z"
+        ],
+        "Condition": [
+            "All",
+            "specified in the Disputes System",
+            "of Regulation E and Regulation Z"
+        ],
+        "Main_actor": [
+            "business rules"
+        ],
+        "Entity": [
+            "All business rules",
+            "Disputes System",
+            "Regulation E",
+            "Regulation Z",
+            "the guidelines"
+        ],
+        "System_response": [
+            "shall be in compliance"
+        ],
+        "Action": [
+            "shall be in compliance"
+        ],
+        "Precondition": [
+            "specified in the Disputes System",
+            "of Regulation E and Regulation Z"
+        ],
+        "Trigger": [],
+        "id": 10
+    },
+    {
+        "Text": "The Disputes application must maintain a detailed history of every action that a user takes on a dispute case.  This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.",
+        "Purpose": [
+            "This ensures a complete audit trail"
+        ],
+        "Condition": [
+            "if questions arise later on with regard to a particular dispute case",
+            "detailed",
+            "of every action that a user takes on a dispute case",
+            "that a user takes on a dispute case"
+        ],
+        "Main_actor": [
+            "a user"
+        ],
+        "Entity": [
+            "The Disputes application",
+            "questions",
+            "a user",
+            "a dispute case",
+            "a detailed history",
+            "every action that a user takes on a dispute case"
+        ],
+        "System_response": [
+            "must maintain a detailed history"
+        ],
+        "Action": [
+            "must maintain a detailed history",
+            "takes on a dispute case",
+            "ensures a complete audit trail"
+        ],
+        "Precondition": [
+            "if questions arise later on",
+            "that a user takes on a dispute case",
+            "on a dispute case &-&with regard to a particular dispute case"
+        ],
+        "Trigger": [
+            "a user takes on a dispute case",
+            "if questions arise later on"
+        ],
+        "id": 11
+    },
+    {
+        "Text": "All actions that modify an existing dispute case must be recorded in the case history.",
+        "Purpose": [
+            "All actions that modify an existing dispute case must be recorded in the case history."
+        ],
+        "Condition": [
+            "All actions that modify an existing dispute case",
+            "in the case history"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "All actions that modify an existing dispute case",
+            "the case history",
+            "an existing dispute case"
+        ],
+        "System_response": [
+            "must be recorded in the case history"
+        ],
+        "Action": [
+            "must be recorded in the case history",
+            "modify an existing dispute case"
+        ],
+        "Precondition": [
+            "All actions that modify an existing dispute case"
+        ],
+        "Trigger": [
+            "All actions that modify an existing dispute case"
+        ],
+        "id": 12
+    },
+    {
+        "Text": "The Disputes System must be accessible by both internal and external users.",
+        "Purpose": [
+            "The Disputes System must be accessible by both internal and external users."
+        ],
+        "Condition": [
+            "by both internal and external users"
+        ],
+        "Main_actor": [
+            "both internal and external users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "both internal and external users"
+        ],
+        "System_response": [
+            "must be accessible"
+        ],
+        "Action": [
+            "must be accessible"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 13
+    },
+    {
+        "Text": "The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.",
+        "Purpose": [
+            "prevent users from accessing any dispute cases that do not belong to their cardholder base."
+        ],
+        "Condition": [
+            "that do not belong to their cardholder base",
+            "any dispute cases"
+        ],
+        "Main_actor": [
+            "users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "users",
+            "dispute cases",
+            "cardholder base"
+        ],
+        "System_response": [
+            "must prevent users from accessing"
+        ],
+        "Action": [
+            "must prevent users from accessing",
+            "do not belong"
+        ],
+        "Precondition": [
+            "that do not belong to their cardholder base"
+        ],
+        "Trigger": [],
+        "id": 14
+    },
+    {
+        "Text": "The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.",
+        "Purpose": [
+            "facilitate direct data entry of a dispute case via a user interface",
+            "supports real time responses to the users"
+        ],
+        "Condition": [
+            "direct",
+            "of a dispute case",
+            "via a user interface",
+            "real time"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The Disputes System",
+            "user interface",
+            "the users",
+            "data entry",
+            "a user interface"
+        ],
+        "System_response": [
+            "will facilitate direct data entry",
+            "supports real time responses"
+        ],
+        "Action": [
+            "will facilitate direct data entry",
+            "supports real time responses"
+        ],
+        "Precondition": [
+            "of a dispute case"
+        ],
+        "Trigger": [],
+        "id": 15
+    },
+    {
+        "Text": "The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.",
+        "Purpose": [
+            "provide different levels of access"
+        ],
+        "Condition": [
+            "with regard to disputes case initiation",
+            "follow-up actions",
+            "different levels of"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The Disputes System",
+            "different levels of access",
+            "disputes case initiation",
+            "follow-up actions"
+        ],
+        "System_response": [
+            "must provide different levels of access"
+        ],
+        "Action": [
+            "must provide different levels of access"
+        ],
+        "Precondition": [
+            "with regard to disputes case initiation and follow-up actions"
+        ],
+        "Trigger": [],
+        "id": 16
+    },
+    {
+        "Text": "The Disputes System shall provide view access capability for authorized users of the application.",
+        "Purpose": [
+            "provide view access capability"
+        ],
+        "Condition": [
+            "authorized",
+            "of the application",
+            "for authorized users of the application"
+        ],
+        "Main_actor": [
+            "authorized users of the application"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "authorized users of the application",
+            "the application",
+            "view access capability"
+        ],
+        "System_response": [
+            "shall provide view access capability"
+        ],
+        "Action": [
+            "shall provide view access capability"
+        ],
+        "Precondition": [
+            "authorized",
+            "of the application",
+            "for authorized users of the application"
+        ],
+        "Trigger": [],
+        "id": 17
+    },
+    {
+        "Text": "The Disputes System shall provide update access capability for authorized users of the application.",
+        "Purpose": [
+            "provide update access capability"
+        ],
+        "Condition": [
+            "authorized",
+            "of the application",
+            "for authorized users of the application"
+        ],
+        "Main_actor": [
+            "authorized users of the application"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "authorized users of the application",
+            "the application"
+        ],
+        "System_response": [
+            "shall provide update access capability"
+        ],
+        "Action": [
+            "shall provide update access capability"
+        ],
+        "Precondition": [
+            "authorized",
+            "of the application",
+            "for authorized users of the application"
+        ],
+        "Trigger": [],
+        "id": 18
+    },
+    {
+        "Text": "The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction.",
+        "Purpose": [
+            "initiate a dispute (ticket retrieval request or chargeback notification)"
+        ],
+        "Condition": [
+            "(based on the age of the transaction)",
+            "disputable",
+            "from a user interface",
+            "on the selected transaction"
+        ],
+        "Main_actor": [
+            "the users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the users",
+            "disputable transactions",
+            "user interface",
+            "dispute",
+            "ticket retrieval request",
+            "chargeback notification",
+            "the selected transaction",
+            "transaction",
+            "a dispute"
+        ],
+        "System_response": [
+            "must allow the users to select",
+            "initiate a dispute"
+        ],
+        "Action": [
+            "must allow the users to select",
+            "initiate a dispute&-& select"
+        ],
+        "Precondition": [
+            "selected",
+            "disputable",
+            "(ticket retrieval request or chargeback notification)",
+            "on the selected transaction"
+        ],
+        "Trigger": [],
+        "id": 19
+    },
+    {
+        "Text": "The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.",
+        "Purpose": [
+            "Efficiently manage disputes for multiple transactions related to the same merchant within a single case."
+        ],
+        "Condition": [
+            "that belong to a single merchant",
+            "single dispute case",
+            "on multiple transactions that belong to a single merchant",
+            "multiple transactions"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "a single dispute case",
+            "multiple transactions that belong to a single merchant",
+            "a single merchant"
+        ],
+        "System_response": [
+            "must provide the ability to initiate"
+        ],
+        "Action": [
+            "must provide the ability to initiate",
+            "belong"
+        ],
+        "Precondition": [
+            "transactions that belong to a single merchant"
+        ],
+        "Trigger": [],
+        "id": 20
+    },
+    {
+        "Text": "The Disputes System will provide the user the ability to create or initiate a ticket retrieval request. As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request. The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction.",
+        "Purpose": [
+            "provide the user the ability to create or initiate a ticket retrieval request",
+            "to create the ticket retrieval request"
+        ],
+        "Condition": [
+            "As part of ticket retrieval creation process",
+            "all the required"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "the system",
+            "The ticket retrieval request",
+            "a ticket retrieval request",
+            "all the required information",
+            "merchant",
+            "the ticket retrieval request",
+            "a transaction",
+            "the validity of a transaction"
+        ],
+        "System_response": [
+            "will provide the user the ability to create or initiate",
+            "must prompt the user to enter all the required information"
+        ],
+        "Action": [
+            "will provide the user the ability to create or initiate",
+            "create",
+            "initiate",
+            "must prompt the user to enter all the required information",
+            "is a document",
+            "is sent"
+        ],
+        "Precondition": [
+            "As part of ticket retrieval creation process",
+            "all the required",
+            "inquiring the validity of a transaction"
+        ],
+        "Trigger": [],
+        "id": 21
+    },
+    {
+        "Text": "The Disputes System must allow the user to create three unique types of ticket retrieval requests. The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio.",
+        "Purpose": [
+            "create three unique types of ticket retrieval requests"
+        ],
+        "Condition": [
+            "three unique types of",
+            "(1) Request for original receipt",
+            "(2) Request for a copy of the receipt",
+            "(3) Request for a portfolio",
+            "for original receipt",
+            "for a copy of the receipt",
+            "for a portfolio",
+            "original",
+            "of the receipt"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "the user",
+            "The Disputes System",
+            "The three types of ticket retrieval requests",
+            "ticket retrieval requests",
+            "original receipt",
+            "copy of receipt",
+            "portfolio"
+        ],
+        "System_response": [
+            "must allow the user to create"
+        ],
+        "Action": [
+            "must allow the user to create",
+            "create"
+        ],
+        "Precondition": [
+            "for original receipt",
+            "for a copy of the receipt",
+            "for a portfolio",
+            "original"
+        ],
+        "Trigger": [],
+        "id": 22
+    },
+    {
+        "Text": "The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.",
+        "Purpose": [
+            "Requests for original receipts are restricted to internal users"
+        ],
+        "Condition": [
+            "external",
+            "internal",
+            "original",
+            "requesting original receipts",
+            "for original receipts",
+            "to internal users"
+        ],
+        "Main_actor": [
+            "external users",
+            "internal users"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "external users",
+            "internal users",
+            "Requests for original receipts",
+            "internal users",
+            "original receipts"
+        ],
+        "System_response": [
+            "must prevent external users from requesting"
+        ],
+        "Action": [
+            "must prevent external users from requesting",
+            "are restricted"
+        ],
+        "Precondition": [
+            "external users",
+            "internal users",
+            "original receipts"
+        ],
+        "Trigger": [],
+        "id": 23
+    },
+    {
+        "Text": "The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information",
+        "Purpose": [
+            "provide a confirmation to the user"
+        ],
+        "Condition": [
+            "upon the creation of ticket retrieval request that contains the following information",
+            "that contains the following information",
+            "following",
+            "to the user"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "the user",
+            "ticket retrieval request",
+            "the following information",
+            "a confirmation"
+        ],
+        "System_response": [
+            "must provide a confirmation"
+        ],
+        "Action": [
+            "must provide a confirmation",
+            "contains"
+        ],
+        "Precondition": [
+            "that contains the following information"
+        ],
+        "Trigger": [
+            "upon the creation of ticket retrieval request that contains the following information"
+        ],
+        "id": 24
+    },
+    {
+        "Text": "The Disputes System shall allow the user to create or initiate a chargeback request. The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.",
+        "Purpose": [
+            "to initiate a chargeback request",
+            "indicating that their account will be charged back if no proof is provided that the disputed transaction is valid"
+        ],
+        "Condition": [
+            "if no proof is provided that the disputed transaction is valid",
+            "printed",
+            "required",
+            "their",
+            "disputed"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "The system",
+            "The chargeback request",
+            "the user",
+            "a chargeback request",
+            "merchant",
+            "their account",
+            "proof",
+            "the disputed transaction",
+            "the required information"
+        ],
+        "System_response": [
+            "must prompt the user",
+            "shall allow"
+        ],
+        "Action": [
+            "must prompt the user",
+            "enter",
+            "initiate",
+            "shall allow",
+            "create",
+            "initiate",
+            "is sent",
+            "will be charged back",
+            "is provided",
+            "is valid",
+            "results"
+        ],
+        "Precondition": [
+            "required",
+            "their",
+            "disputed"
+        ],
+        "Trigger": [
+            "if no proof is provided that the disputed transaction is valid"
+        ],
+        "id": 25
+    },
+    {
+        "Text": "The Disputes System must provide a confirmation to the user upon the creation of a chargeback request. The confirmation must contain the following information",
+        "Purpose": [
+            "provide a confirmation to the user upon the creation of a chargeback request"
+        ],
+        "Condition": [
+            "upon the creation of a chargeback request",
+            "following",
+            "to the user"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The Disputes System",
+            "The confirmation",
+            "a chargeback request",
+            "the following information",
+            "a confirmation",
+            "the user"
+        ],
+        "System_response": [
+            "must provide a confirmation"
+        ],
+        "Action": [
+            "must provide a confirmation",
+            "must contain"
+        ],
+        "Precondition": [
+            "following"
+        ],
+        "Trigger": [
+            "upon the creation of a chargeback request"
+        ],
+        "id": 26
+    },
+    {
+        "Text": "The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.",
+        "Purpose": [
+            "prevent the creation of duplicate dispute requests"
+        ],
+        "Condition": [
+            "100% of the time",
+            "creation of duplicate dispute requests"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The Disputes System",
+            "duplicate dispute requests"
+        ],
+        "System_response": [
+            "shall prevent"
+        ],
+        "Action": [
+            "shall prevent"
+        ],
+        "Precondition": [
+            "creation of duplicate dispute requests"
+        ],
+        "Trigger": [
+            "creation of duplicate dispute requests"
+        ],
+        "id": 27
+    },
+    {
+        "Text": "The product shall comply with corporate User Interface Guidelines",
+        "Purpose": [
+            "The product shall comply with corporate User Interface Guidelines"
+        ],
+        "Condition": [
+            "corporate User Interface Guidelines"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "corporate User Interface Guidelines"
+        ],
+        "System_response": [
+            "shall comply with"
+        ],
+        "Action": [
+            "shall comply with"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 28
+    },
+    {
+        "Text": "The product shall comply with corporate color scheme",
+        "Purpose": [
+            "The product shall comply with corporate color scheme"
+        ],
+        "Condition": [
+            "corporate color scheme"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "corporate color scheme"
+        ],
+        "System_response": [
+            "shall comply with"
+        ],
+        "Action": [
+            "shall comply with"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 29
+    },
+    {
+        "Text": "The appearance of the product shall appear professional",
+        "Purpose": [
+            "The appearance of the product shall appear professional"
+        ],
+        "Condition": [
+            "of the product",
+            "professional"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The appearance of the product",
+            "The appearance",
+            "the product"
+        ],
+        "System_response": [
+            "shall appear professional"
+        ],
+        "Action": [
+            "shall appear professional"
+        ],
+        "Precondition": [
+            "of the product"
+        ],
+        "Trigger": [],
+        "id": 30
+    },
+    {
+        "Text": "The software product is expected to run on Windows or Linux platforms.",
+        "Purpose": [
+            "The software product is expected to run on Windows or Linux platforms"
+        ],
+        "Condition": [
+            "on Windows or Linux platforms"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The software product",
+            "Windows or Linux platforms"
+        ],
+        "System_response": [
+            "is expected to run"
+        ],
+        "Action": [
+            "is expected to run"
+        ],
+        "Precondition": [
+            "on Windows or Linux platforms"
+        ],
+        "Trigger": [],
+        "id": 31
+    },
+    {
+        "Text": "The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.",
+        "Purpose": [
+            "The product shall be easy to use by Adjusters and Collision Estimators"
+        ],
+        "Condition": [
+            "95% of",
+            "easy to use"
+        ],
+        "Main_actor": [
+            "95% of Adjusters and Collision Estimators"
+        ],
+        "Entity": [
+            "The product",
+            "95% of Adjusters and Collision Estimators",
+            "Adjusters",
+            "Collision Estimators"
+        ],
+        "System_response": [
+            "shall be easy to use"
+        ],
+        "Action": [
+            "shall be easy to use",
+            "shall find the product easy to use"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 32
+    },
+    {
+        "Text": "The product shall increase productivity of Collision Estimators. 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.",
+        "Purpose": [
+            "The product shall increase productivity of Collision Estimators"
+        ],
+        "Condition": [
+            "80% of the Collision Estimators",
+            "within 1 month of using the product"
+        ],
+        "Main_actor": [
+            "80% of the Collision Estimators"
+        ],
+        "Entity": [
+            "80% of the Collision Estimators",
+            "The product",
+            "productivity"
+        ],
+        "System_response": [
+            "shall increase productivity"
+        ],
+        "Action": [
+            "shall increase productivity",
+            "shall agree",
+            "using"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "within 1 month of using the product"
+        ],
+        "id": 33
+    },
+    {
+        "Text": "Users shall feel satisfied using the product. 85% of all users will be satisfied with the product.",
+        "Purpose": [
+            "Users shall feel satisfied using the product"
+        ],
+        "Condition": [
+            "85% of all users",
+            "using the product",
+            "with the product"
+        ],
+        "Main_actor": [
+            "85% of all users"
+        ],
+        "Entity": [
+            "Users",
+            "85% of all users",
+            "the product"
+        ],
+        "System_response": [],
+        "Action": [
+            "will be satisfied",
+            "shall feel satisfied"
+        ],
+        "Precondition": [
+            "using the product",
+            "with the product"
+        ],
+        "Trigger": [],
+        "id": 34
+    },
+    {
+        "Text": "The user shall easily locate instructions while using the product. User help can be found within 90% of the system.",
+        "Purpose": [
+            "The user shall easily locate instructions while using the product"
+        ],
+        "Condition": [
+            "while using the product",
+            "easily",
+            "within 90% of the system"
+        ],
+        "Main_actor": [
+            "The user"
+        ],
+        "Entity": [
+            "User help",
+            "The user",
+            "the product",
+            "instructions",
+            "the system &-&the product"
+        ],
+        "System_response": [],
+        "Action": [
+            "shall easily locate",
+            "using",
+            "can be found"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "while using the product"
+        ],
+        "id": 35
+    },
+    {
+        "Text": "The search for recycled parts shall take no longer than 15 seconds. The search results shall be returned in under 15 seconds.",
+        "Purpose": [],
+        "Condition": [
+            "no longer than 15 seconds",
+            "in under 15 seconds",
+            "for recycled parts"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The search for recycled parts",
+            "The search results",
+            "recycled parts"
+        ],
+        "System_response": [],
+        "Action": [
+            "shall take",
+            "shall be returned"
+        ],
+        "Precondition": [
+            "recycled",
+            "for recycled parts"
+        ],
+        "Trigger": [
+            "for recycled parts"
+        ],
+        "id": 36
+    },
+    {
+        "Text": "The search for the preferred repair facility shall take no longer than 8 seconds. The preferred repair facility is returned within 8 seconds",
+        "Purpose": [],
+        "Condition": [
+            "within 8 seconds",
+            "no longer than 8 seconds",
+            "for the preferred repair facility"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The search for the preferred repair facility",
+            "The preferred repair facility"
+        ],
+        "System_response": [],
+        "Action": [
+            "shall take",
+            "is returned"
+        ],
+        "Precondition": [
+            "preferred",
+            "for the preferred repair facility"
+        ],
+        "Trigger": [
+            "for the preferred repair facility"
+        ],
+        "id": 37
+    },
+    {
+        "Text": "The recycled parts audit report shall be returned to the user within 10 seconds. The audit report shall be returned within 10 seconds.",
+        "Purpose": [],
+        "Condition": [
+            "within 10 seconds",
+            "to the user"
+        ],
+        "Main_actor": [
+            "the user"
+        ],
+        "Entity": [
+            "The recycled parts audit report",
+            "The audit report",
+            "the user"
+        ],
+        "System_response": [],
+        "Action": [
+            "shall be returned"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 38
+    },
+    {
+        "Text": "The preferred repair facility ratings shall be saved within 5 seconds. The save shall occur within 5 seconds.",
+        "Purpose": [],
+        "Condition": [
+            "within 5 seconds",
+            "preferred"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The preferred repair facility ratings",
+            "The save"
+        ],
+        "System_response": [],
+        "Action": [
+            "shall be saved",
+            "shall occur"
+        ],
+        "Precondition": [
+            "preferred"
+        ],
+        "Trigger": [],
+        "id": 39
+    },
+    {
+        "Text": "The product shall achieve a 98% uptime. The product shall not fail more than 2% of the available online time.",
+        "Purpose": [
+            "The product shall achieve a 98% uptime"
+        ],
+        "Condition": [
+            "98% uptime",
+            "more than 2% of the available online time",
+            "2%"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "available online time"
+        ],
+        "System_response": [
+            "shall achieve a 98% uptime",
+            "shall not fail"
+        ],
+        "Action": [
+            "shall achieve a 98% uptime",
+            "shall not fail"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 40
+    },
+    {
+        "Text": "The average number of recycled parts records per day shall be 50 000.",
+        "Purpose": [
+            "The average number of recycled parts records per day shall be 50 000"
+        ],
+        "Condition": [
+            "per day",
+            "of recycled parts records",
+            "50 000"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The average number of recycled parts records per day"
+        ],
+        "System_response": [
+            "shall be 50000"
+        ],
+        "Action": [
+            "shall be"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "per day"
+        ],
+        "id": 41
+    },
+    {
+        "Text": "For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.",
+        "Purpose": [
+            "the product shall be able to be operated in a repair facility during dirty and noisy conditions"
+        ],
+        "Condition": [
+            "during dirty and noisy conditions",
+            "in a repair facility"
+        ],
+        "Main_actor": [
+            "estimators"
+        ],
+        "Entity": [
+            "the product",
+            "estimators",
+            "a repair facility"
+        ],
+        "System_response": [
+            "shall be able to be operated"
+        ],
+        "Action": [
+            "shall be able to be operated"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "during dirty and noisy conditions"
+        ],
+        "id": 42
+    },
+    {
+        "Text": "The product shall interface with the ChoiceParts system once per day.",
+        "Purpose": [
+            "The product shall interface with the ChoiceParts system once per day"
+        ],
+        "Condition": [
+            "once per day",
+            "with the ChoiceParts system"
+        ],
+        "Main_actor": [
+            "The product"
+        ],
+        "Entity": [
+            "The product",
+            "the ChoiceParts system"
+        ],
+        "System_response": [
+            "shall interface"
+        ],
+        "Action": [
+            "shall interface"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "once per day"
+        ],
+        "id": 43
+    },
+    {
+        "Text": "The maintenance of the product will fall within the established corporate maintenance windows.",
+        "Purpose": [
+            "The maintenance of the product will fall within the established corporate maintenance windows"
+        ],
+        "Condition": [
+            "of the product",
+            "within the established corporate maintenance windows"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The maintenance of the product",
+            "the product",
+            "corporate maintenance windows"
+        ],
+        "System_response": [
+            "will fall within"
+        ],
+        "Action": [
+            "will fall within"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 44
+    },
+    {
+        "Text": "The product shall be supported using the corporate support center.",
+        "Purpose": [
+            "The product shall be supported using the corporate support center"
+        ],
+        "Condition": [
+            "using the corporate support center"
+        ],
+        "Main_actor": [],
+        "Entity": [
+            "The product",
+            "the corporate support center"
+        ],
+        "System_response": [
+            "shall be supported"
+        ],
+        "Action": [
+            "shall be supported",
+            "using"
+        ],
+        "Precondition": [],
+        "Trigger": [],
+        "id": 45
+    },
+    {
+        "Text": "Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.",
+        "Purpose": [
+            "Product installations and upgrades shall be handled by the middleware technology team"
+        ],
+        "Condition": [
+            "within established launch time frames"
+        ],
+        "Main_actor": [
+            "the middleware technology team"
+        ],
+        "Entity": [
+            "Product installations",
+            "upgrades",
+            "the middleware technology team",
+            "established launch time frames"
+        ],
+        "System_response": [
+            "shall be handled"
+        ],
+        "Action": [
+            "shall be handled"
+        ],
+        "Precondition": [],
+        "Trigger": [
+            "within established launch time frames"
+        ],
+        "id": 46
+    },
+    {
+        "Text": "Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.",
+        "Purpose": [
+            "Only adjusters can request recycled parts audit reports"
+        ],
+        "Condition": [
+            "without an adjuster role",
+            "recycled",
+            "Only adjusters"
+        ],
+        "Main_actor": [
+            "adjusters",
+            "users without an adjuster role"
+        ],
+        "Entity": [
+            "adjusters",
+            "users without an adjuster role",
+            "recycled parts audit reports"
+        ],
+        "System_response": [],
+        "Action": [
+            "can request",
+            "shall request"
+        ],
+        "Precondition": [
+            "without an adjuster role"
+        ],
+        "Trigger": [],
+        "id": 47
+    },
+    {
+        "Text": "The system shall accept requests for recycled parts audit reports only from users with an 'adjuster' role",
+        "Purpose": [
+            "The system shall accept requests for recycled parts audit reports only from users with an 'adjuster' role"
+        ],
+        "Condition": [
+            "for recycled parts audit reports",
+            "only from users with an 'adjuster' role"
+        ],
+        "Main_actor": [
+            "users with an 'adjuster' role"
+        ],
+        "Entity": [
+            "The system",
+            "requests for recycled parts audit reports",
+            "recycled parts audit reports",
+            "users with an 'adjuster' role"
+        ],
+        "System_response": [
+            "shall accept requests"
+        ],
+        "Action": [
+            "shall accept"
+        ],
+        "Precondition": [
+            "only from users with an 'adjuster' role"
+        ],
+        "Trigger": [],
+        "id": 48
+    },
+    {
+        "Text": "Only adjusters with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.",
+        "Purpose": [
+            "Only adjusters with a supervisor role can update preferred repair facility ratings"
+        ],
+        "Condition": [
+            "Only adjusters with a supervisor role",
+            "Users without the supervisor role"
+        ],
+        "Main_actor": [
+            "adjusters with a supervisor role",
+            "Users without the supervisor role"
+        ],
+        "Entity": [
+            "adjusters with a supervisor role",
+            "Users without the supervisor role",
+            "preferred repair facility ratings",
+            "the repair facility ratings"
+        ],
+        "System_response": [
+            "cannot access the repair facility ratings"
+        ],
+        "Action": [
+            "can update",
+            "cannot access"
+        ],
+        "Precondition": [
+            "without the supervisor role",
+            "with a supervisor role"
+        ],
+        "Trigger": [],
+        "id": 49
+    }
+]
