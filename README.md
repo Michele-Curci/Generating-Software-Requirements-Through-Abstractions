@@ -22,7 +22,7 @@ We implemented and compared three main strategies:
 ### Evaluation & Data
 We tested these models on two datasets:
 * A **Cleaned Dataset** (50 requirements) that acts as our manually verified Gold Standard.
-* The **Original Dataset** (250 requirements), which is much noisier and inconsistent.
+* The **Original Dataset** (250 requirements), which is much noisier and more inconsistent.
 
 For the evaluation, we realized that simple string matching wasn't fair because LLMs often paraphrase correctly. So, instead of standard accuracy, we wrote a script using **SBERT** (Sentence-BERT) to check semantic similarity between the extraction and the ground truth.
 
@@ -52,7 +52,7 @@ Dataset/
 
 ## Code Structure & File Descriptions
 
-Here's a quick breakdown of what each file in the `Codes/` folder does. We tried to keep things modular so it's easier to understand and modify.
+Here's a quick breakdown of what each file in the `Codes/` folder does. We tried to keep things modular, so it's easier to understand and modify.
 
 ### Inference Scripts (The Main Pipelines)
 
@@ -67,8 +67,8 @@ Here's a quick breakdown of what each file in the `Codes/` folder does. We tried
 | File | What it does |
 |------|--------------|
 | **`Single_agent_prompt.py`** | Contains all the prompts for the single-agent baselines. We defined a `BASE_INSTRUCTIONS` string with the extraction rules, and then created variants for zero-shot (just the base), one-shot (base + 1 example), and few-shot (base + 3 examples). The examples were carefully picked to cover different requirement types. |
-| **`Multi_agent_3prompt.py`** | Holds the prompts for our 3-agent pipeline. Each agent has its own specialized prompt: `AGENT_ENTITY_PROMPT` focuses on actors/entities, `AGENT_ACTION_PROMPT` handles verbs and system responses, and `AGENT_LOGIC_PROMPT` extracts conditions/triggers. We added contrastive examples to help the LLM distinguish between static vs dynamic requirements. |
-| **`Multi_agent_8prompt.py`** | Contains 8 mini-prompts, one per extraction field. They all share a common `SHARED_RULES` base but each one is laser-focused on extracting just one thing (e.g., only "Trigger", only "Entity"). This keeps each prompt simple and reduces confusion for the model. |
+| **`Multi_agent_3prompt.py`** | Holds the prompts for our 3-agent pipeline. Each agent has its own specialized prompt: `AGENT_ENTITY_PROMPT` focuses on actors/entities, `AGENT_ACTION_PROMPT` handles verbs and system responses, and `AGENT_LOGIC_PROMPT` extracts conditions/triggers. We added contrastive examples to help the LLM distinguish between static and dynamic requirements. |
+| **`Multi_agent_8prompt.py`** | Contains 8 mini-prompts, one per extraction field. They all share a common `SHARED_RULES` base, but each one is laser-focused on extracting just one thing (e.g., only "Trigger", only "Entity"). This keeps each prompt simple and reduces confusion for the model. |
 
 ### Evaluation
 
@@ -130,7 +130,4 @@ Here's a quick breakdown of what each file in the `Codes/` folder does. We tried
 - You'll need to add your own HuggingFace token where it says `'< YOUR TOKEN >'`.
 - The `smart_filter()` function in Multi_agent_3.py removes redundant substrings while protecting atomic values like percentages.
 - We use `do_sample=False` for deterministic outputs (reproducibility).
-
-#Sharhzad
-#Structure
 
