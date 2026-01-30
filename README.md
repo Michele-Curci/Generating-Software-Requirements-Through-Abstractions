@@ -5,7 +5,7 @@ Repository for the project of the course "Large language models for software eng
 #Introduction
 
 
-#The Dataset directory is divided into:
+# *The Dataset directory is divided into:*
 - Dataset_250, containing 250 dirty requirements
 - Dataset_50, containing the 50 cleaned requirements. 
 Each directory contains the source Dataset file in JSON format and the results obtained by each agentic pipeline (zero_shot, one_shot, few_shot, MultiAgent, MultiAgent1).
